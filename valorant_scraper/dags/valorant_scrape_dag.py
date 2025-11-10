@@ -8,8 +8,11 @@ from datetime import datetime, timedelta
 from scrapers.tournaments_scraper import scrape_tournaments_data
 from scrapers.tournaments_detail_scraper import scrape_tournaments_detail_data
 from scrapers.tournaments_match_scraper import scrape_tournaments_match_data
-from scrapers.tournaments_match_overview_scraper import scrape_tournaments_match_overview_data
-from scrapers.tournaments_match_round_scraper import scrape_tournaments_match_round_data
+from scrapers.tournaments_game_scraper import scrape_tournaments_game_data
+from scrapers.tournaments_game_overview_scraper import scrape_tournaments_game_overview_data
+from scrapers.tournaments_game_round_scraper import scrape_tournaments_game_round_data
+from scrapers.tournaments_game_head2head_scraper import scrape_tournaments_game_head2head_data
+from scrapers.tournaments_game_performance_scraper import scrape_tournaments_game_performance_data
 from processors.aggregator import aggregate_all_data
 from processors.feature_engineering import engineer_features
 
@@ -54,33 +57,40 @@ scrape_tournaments_match_task = PythonOperator(
     dag=dag,
 )
 
-# Task 4: Scrape tournaments match overview data
-scrape_tournaments_match_overview_task = PythonOperator(
-    task_id='scrape_tournaments_match_overview_data',
-    python_callable=scrape_tournaments_match_overview_data,
+# Task 4: Scrape tournaments game summary data
+scrape_tournaments_game_task = PythonOperator(
+    task_id='scrape_tournaments_game_data',
+    python_callable=scrape_tournaments_game_data,
     dag=dag,
 )
 
-# Task 4: Scrape tournaments match round data
-scrape_tournaments_match_round_task = PythonOperator(
-    task_id='scrape_tournaments_match_round_data',
-    python_callable=scrape_tournaments_match_round_data,
+# Task 5: Scrape tournaments game overview data
+scrape_tournaments_game_overview_task = PythonOperator(
+    task_id='scrape_tournaments_game_overview_data',
+    python_callable=scrape_tournaments_game_overview_data,
     dag=dag,
 )
 
-# # Task 2: Scrape Liquipedia for roster & event data
-# scrape_liquipedia = PythonOperator(
-#     task_id='scrape_liquipedia_data',
-#     python_callable=scrape_liquipedia_data,
-#     dag=dag,
-# )
+# Task 6: Scrape tournaments game round data
+scrape_tournaments_game_round_task = PythonOperator(
+    task_id='scrape_tournaments_game_round_data',
+    python_callable=scrape_tournaments_game_round_data,
+    dag=dag,
+)
 
-# # Task 3: Scrape Riot patch notes
-# scrape_patches = PythonOperator(
-#     task_id='scrape_patch_notes',
-#     python_callable=scrape_patch_data,
-#     dag=dag,
-# )
+# Task 7: Scrape tournaments player head 2 head data
+scrape_tournaments_game_head2head_task = PythonOperator(
+    task_id='scrape_tournaments_game_head2head_data',
+    python_callable=scrape_tournaments_game_head2head_data,
+    dag=dag,
+)
+
+# Task 8: Scrape tournaments player performance data
+scrape_tournaments_game_performance_task = PythonOperator(
+    task_id='scrape_tournaments_game_performance_data',
+    python_callable=scrape_tournaments_game_performance_data,
+    dag=dag,
+)
 
 # Task 4: Aggregate all raw data
 aggregate_data = PythonOperator(
@@ -97,9 +107,4 @@ engineer_feat = PythonOperator(
 )
 
 # Define dependencies
-scrape_tournaments_task >> [scrape_tournaments_detail_task, scrape_tournaments_match_task]
-
-[scrape_tournaments_detail_task, scrape_tournaments_match_task] >> scrape_tournaments_match_overview_task
-[scrape_tournaments_detail_task, scrape_tournaments_match_task] >> scrape_tournaments_match_round_task
-
-[scrape_tournaments_match_overview_task, scrape_tournaments_match_round_task] >> aggregate_data >> engineer_feat
+scrape_tournaments_task >> [scrape_tournaments_detail_task, scrape_tournaments_match_task] >> scrape_tournaments_game_task >> [scrape_tournaments_game_overview_task, scrape_tournaments_game_round_task, scrape_tournaments_game_head2head_task, scrape_tournaments_game_performance_task] >> aggregate_data >> engineer_feat

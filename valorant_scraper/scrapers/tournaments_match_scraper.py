@@ -142,6 +142,9 @@ def scrape_tournaments_match_data(delay=1.0):
                             stage = stage_text.replace(sub_stage, "").strip()
                         else:
                             stage = stage_text
+
+                    if stage == "Showmatch" or sub_stage == "Showmatch":
+                        continue
                     
                     all_matches.append({
                         "tournament_id": tournament_id,

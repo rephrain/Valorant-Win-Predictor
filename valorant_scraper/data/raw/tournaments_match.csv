@@ -85,7 +85,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2501,530909,Cloud9,100 Thieves,2.0,0.0,Cloud9,100 Thieves,Lower Round 2,Playoffs,https://www.vlr.gg/530909/cloud9-vs-100-thieves-vct-2025-americas-stage-2-lr2
 2501,530910,Sentinels,G2 Esports,0.0,2.0,G2 Esports,Sentinels,Upper Final,Playoffs,https://www.vlr.gg/530910/sentinels-vs-g2-esports-vct-2025-americas-stage-2-ubf
 2501,530911,NRG,Cloud9,2.0,1.0,NRG,Cloud9,Lower Round 3,Playoffs,https://www.vlr.gg/530911/nrg-vs-cloud9-vct-2025-americas-stage-2-lr3
-2501,536985,Team Alpha,Team Omega,1.0,0.0,Team Alpha,Team Omega,Override,Showmatch,https://www.vlr.gg/536985/team-alpha-vs-team-omega-vct-2025-americas-stage-2-override
 2501,530912,Sentinels,NRG,1.0,3.0,NRG,Sentinels,Lower Final,Playoffs,https://www.vlr.gg/530912/sentinels-vs-nrg-vct-2025-americas-stage-2-lbf
 2501,530913,G2 Esports,NRG,3.0,0.0,G2 Esports,NRG,Grand Final,Playoffs,https://www.vlr.gg/530913/g2-esports-vs-nrg-vct-2025-americas-stage-2-gf
 2498,511543,Natus Vincere,Apeks,2.0,1.0,Natus Vincere,Apeks,Week 1,Group Stage,https://www.vlr.gg/511543/natus-vincere-vs-apeks-vct-2025-emea-stage-2-w1
@@ -129,7 +128,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2498,530932,BBL Esports,Team Liquid,1.0,2.0,Team Liquid,BBL Esports,Upper Final,Playoffs,https://www.vlr.gg/530932/bbl-esports-vs-team-liquid-vct-2025-emea-stage-2-ubf
 2498,530933,GIANTX,Natus Vincere,2.0,1.0,GIANTX,Natus Vincere,Lower Round 3,Playoffs,https://www.vlr.gg/530933/giantx-vs-natus-vincere-vct-2025-emea-stage-2-lr3
 2498,530934,BBL Esports,GIANTX,0.0,3.0,GIANTX,BBL Esports,Lower Final,Playoffs,https://www.vlr.gg/530934/bbl-esports-vs-giantx-vct-2025-emea-stage-2-lbf
-2498,538583,Team France,Team EMEA,0.0,1.0,Team EMEA,Team France,Main Event,Showmatch,https://www.vlr.gg/538583/team-france-vs-team-emea-vct-2025-emea-stage-2-main-event
 2498,530935,Team Liquid,GIANTX,3.0,0.0,Team Liquid,GIANTX,Grand Final,Playoffs,https://www.vlr.gg/530935/team-liquid-vs-giantx-vct-2025-emea-stage-2-gf
 2500,508815,BOOM Esports,TALON,0.0,2.0,TALON,BOOM Esports,Week 1,Group Stage,https://www.vlr.gg/508815/boom-esports-vs-talon-vct-2025-pacific-stage-2-w1
 2500,508816,Nongshim RedForce,Team Secret,2.0,1.0,Nongshim RedForce,Team Secret,Week 1,Group Stage,https://www.vlr.gg/508816/nongshim-redforce-vs-team-secret-vct-2025-pacific-stage-2-w1
@@ -171,7 +169,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2500,530361,DRX,Rex Regum Qeon,0.0,2.0,Rex Regum Qeon,DRX,Lower Round 2,Playoffs,https://www.vlr.gg/530361/drx-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr2
 2500,530362,TALON,Paper Rex,0.0,2.0,Paper Rex,TALON,Upper Final,Playoffs,https://www.vlr.gg/530362/talon-vs-paper-rex-vct-2025-pacific-stage-2-ubf
 2500,530363,T1,Rex Regum Qeon,1.0,2.0,Rex Regum Qeon,T1,Lower Round 3,Playoffs,https://www.vlr.gg/530363/t1-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr3
-2500,530514,Team World,Glory Once Again,1.0,0.0,Team World,Glory Once Again,Main Event,Showmatch,https://www.vlr.gg/530514/team-world-vs-glory-once-again-vct-2025-pacific-stage-2-main-event
 2500,530364,TALON,Rex Regum Qeon,2.0,3.0,Rex Regum Qeon,TALON,Lower Final,Playoffs,https://www.vlr.gg/530364/talon-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lf
 2500,530365,Paper Rex,Rex Regum Qeon,3.0,1.0,Paper Rex,Rex Regum Qeon,Grand Final,Playoffs,https://www.vlr.gg/530365/paper-rex-vs-rex-regum-qeon-vct-2025-pacific-stage-2-gf
 2499,506930,EDward Gaming,Titan Esports Club,2.0,0.0,EDward Gaming,Titan Esports Club,Week 1,Group Stage,https://www.vlr.gg/506930/edward-gaming-vs-titan-esports-club-vct-2025-china-stage-2-w1
@@ -212,7 +209,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2499,527579,Xi Lai Gaming,Dragon Ranger Gaming,1.0,2.0,Dragon Ranger Gaming,Xi Lai Gaming,Upper Semifinals,Playoffs,https://www.vlr.gg/527579/xi-lai-gaming-vs-dragon-ranger-gaming-vct-2025-china-stage-2-ubsf
 2499,527585,TYLOO,EDward Gaming,0.0,2.0,EDward Gaming,TYLOO,Lower Round 2,Playoffs,https://www.vlr.gg/527585/tyloo-vs-edward-gaming-vct-2025-china-stage-2-lr2
 2499,527586,Xi Lai Gaming,All Gamers,2.0,1.0,Xi Lai Gaming,All Gamers,Lower Round 2,Playoffs,https://www.vlr.gg/527586/xi-lai-gaming-vs-all-gamers-vct-2025-china-stage-2-lr2
-2499,536176,Pure Aim,Precise Defeat,0.0,1.0,Precise Defeat,Pure Aim,All-Star Match,Showmatch,https://www.vlr.gg/536176/pure-aim-vs-precise-defeat-vct-2025-china-stage-2-all-star-match
 2499,527581,Dragon Ranger Gaming,Bilibili Gaming,2.0,1.0,Dragon Ranger Gaming,Bilibili Gaming,Upper Final,Playoffs,https://www.vlr.gg/527581/dragon-ranger-gaming-vs-bilibili-gaming-vct-2025-china-stage-2-ubf
 2499,527587,EDward Gaming,Xi Lai Gaming,2.0,0.0,EDward Gaming,Xi Lai Gaming,Lower Round 3,Playoffs,https://www.vlr.gg/527587/edward-gaming-vs-xi-lai-gaming-vct-2025-china-stage-2-lr3
 2499,527588,Bilibili Gaming,EDward Gaming,3.0,1.0,Bilibili Gaming,EDward Gaming,Lower Final,Playoffs,https://www.vlr.gg/527588/bilibili-gaming-vs-edward-gaming-vct-2025-china-stage-2-lbf
@@ -240,7 +236,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2282,498627,Paper Rex,Wolves Esports,2.0,0.0,Paper Rex,Wolves Esports,Upper Final,Playoffs,https://www.vlr.gg/498627/paper-rex-vs-wolves-esports-valorant-masters-toronto-2025-ubf
 2282,498633,G2 Esports,FNATIC,0.0,2.0,FNATIC,G2 Esports,Lower Round 3,Playoffs,https://www.vlr.gg/498633/g2-esports-vs-fnatic-valorant-masters-toronto-2025-lr3
 2282,498634,Wolves Esports,FNATIC,1.0,3.0,FNATIC,Wolves Esports,Lower Final,Playoffs,https://www.vlr.gg/498634/wolves-esports-vs-fnatic-valorant-masters-toronto-2025-lbf
-2282,507067,Team tarik,Team Toast,0.0,1.0,Team Toast,Team tarik,Showmatch,,https://www.vlr.gg/507067/team-tarik-vs-team-toast-valorant-masters-toronto-2025-showmatch
 2282,498628,Paper Rex,FNATIC,3.0,1.0,Paper Rex,FNATIC,Grand Final,Playoffs,https://www.vlr.gg/498628/paper-rex-vs-fnatic-valorant-masters-toronto-2025-gf
 2380,459826,Team Vitality,GIANTX,2.0,0.0,Team Vitality,GIANTX,Week 1,Group Stage,https://www.vlr.gg/459826/team-vitality-vs-giantx-champions-tour-2025-emea-stage-1-w1
 2380,459827,BBL Esports,Karmine Corp,2.0,1.0,BBL Esports,Karmine Corp,Week 1,Group Stage,https://www.vlr.gg/459827/bbl-esports-vs-karmine-corp-champions-tour-2025-emea-stage-1-w1
@@ -437,7 +432,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 2281,449010,EDward Gaming,G2 Esports,0.0,2.0,G2 Esports,EDward Gaming,Upper Final,Playoffs,https://www.vlr.gg/449010/edward-gaming-vs-g2-esports-champions-tour-2025-masters-bangkok-ubf
 2281,449012,T1,Team Vitality,2.0,1.0,T1,Team Vitality,Lower Round 1,Playoffs,https://www.vlr.gg/449012/t1-vs-team-vitality-champions-tour-2025-masters-bangkok-lr1
 2281,449013,EDward Gaming,T1,1.0,3.0,T1,EDward Gaming,Lower Final,Playoffs,https://www.vlr.gg/449013/edward-gaming-vs-t1-champions-tour-2025-masters-bangkok-lbf
-2281,450589,Team International,Team Thailand,0.0,1.0,Team Thailand,Team International,Main Event,Showmatch,https://www.vlr.gg/450589/team-international-vs-team-thailand-champions-tour-2025-masters-bangkok-main-event
 2281,449011,G2 Esports,T1,2.0,3.0,T1,G2 Esports,Grand Final,Playoffs,https://www.vlr.gg/449011/g2-esports-vs-t1-champions-tour-2025-masters-bangkok-gf
 2339,440530,TYLOO,All Gamers,2.0,0.0,TYLOO,All Gamers,Round of 12,Main Event,https://www.vlr.gg/440530/tyloo-vs-all-gamers-china-evolution-series-act-1-ro12
 2339,440531,Nova Esports,Trace Esports,2.0,1.0,Nova Esports,Trace Esports,Round of 12,Main Event,https://www.vlr.gg/440531/nova-esports-vs-trace-esports-china-evolution-series-act-1-ro12
@@ -728,7 +722,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 1999,348473,G2 Esports,Gen.G,0.0,2.0,Gen.G,G2 Esports,Upper Final,Playoffs,https://www.vlr.gg/348473/g2-esports-vs-gen-g-champions-tour-2024-masters-shanghai-ubf
 1999,348474,100 Thieves,Team Heretics,0.0,2.0,Team Heretics,100 Thieves,Lower Round 3,Playoffs,https://www.vlr.gg/348474/100-thieves-vs-team-heretics-champions-tour-2024-masters-shanghai-lr3
 1999,348475,G2 Esports,Team Heretics,0.0,3.0,Team Heretics,G2 Esports,Lower Final,Playoffs,https://www.vlr.gg/348475/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-lf
-1999,359463,Team International,Team China,0.0,1.0,Team China,Team International,Showmatch,,https://www.vlr.gg/359463/team-international-vs-team-china-champions-tour-2024-masters-shanghai-showmatch
 1999,348476,Gen.G,Team Heretics,3.0,2.0,Gen.G,Team Heretics,Grand Final,Playoffs,https://www.vlr.gg/348476/gen-g-vs-team-heretics-champions-tour-2024-masters-shanghai-gf
 2006,319765,Bilibili Gaming,TYLOO,2.0,1.0,Bilibili Gaming,TYLOO,Week 1,Regular Season,https://www.vlr.gg/319765/bilibili-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w1
 2006,319766,Wolves Esports,Titan Esports Club,1.0,2.0,Titan Esports Club,Wolves Esports,Week 1,Regular Season,https://www.vlr.gg/319766/wolves-esports-vs-titan-esports-club-champions-tour-2024-china-stage-1-w1
@@ -897,7 +890,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 1921,312778,Gen.G,Sentinels,2.0,1.0,Gen.G,Sentinels,Upper Final,Playoffs,https://www.vlr.gg/312778/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-ubf
 1921,312780,Paper Rex,LOUD,2.0,0.0,Paper Rex,LOUD,Lower Round 1,Playoffs,https://www.vlr.gg/312780/paper-rex-vs-loud-champions-tour-2024-masters-madrid-lr1
 1921,312781,Sentinels,Paper Rex,3.0,1.0,Sentinels,Paper Rex,Lower Final,Playoffs,https://www.vlr.gg/312781/sentinels-vs-paper-rex-champions-tour-2024-masters-madrid-lbf
-1921,321373,Team International,Team Spain,0.0,1.0,Team Spain,Team International,Showmatch,,https://www.vlr.gg/321373/team-international-vs-team-spain-champions-tour-2024-masters-madrid-match
 1921,312779,Gen.G,Sentinels,2.0,3.0,Sentinels,Gen.G,Grand Final,Playoffs,https://www.vlr.gg/312779/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-gf
 1923,295605,NRG,FURIA,2.0,0.0,NRG,FURIA,Opening (A),Group Stage,https://www.vlr.gg/295605/nrg-esports-vs-furia-champions-tour-2024-americas-kickoff-opening-a
 1923,295606,Cloud9,MIBR,2.0,1.0,Cloud9,MIBR,Opening (A),Group Stage,https://www.vlr.gg/295606/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-opening-a
@@ -1480,7 +1472,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 1191,184517,T1,ZETA DIVISION,2.0,1.0,T1,ZETA DIVISION,Lower Round 1,Playoffs,https://www.vlr.gg/184517/t1-vs-zeta-division-champions-tour-2023-pacific-league-playoffs-lr1
 1191,184519,DRX,Paper Rex,0.0,2.0,Paper Rex,DRX,Upper Final,Playoffs,https://www.vlr.gg/184519/drx-vs-paper-rex-champions-tour-2023-pacific-league-playoffs-uf
 1191,184520,T1,Gen.G,2.0,0.0,T1,Gen.G,Lower Round 2,Playoffs,https://www.vlr.gg/184520/t1-vs-gen-g-champions-tour-2023-pacific-league-playoffs-lr2
-1191,214088,Team Bunny,Team SuperBusS,1.0,0.0,Team Bunny,Team SuperBusS,Showmatch,,https://www.vlr.gg/214088/team-bunny-vs-team-superbuss-champions-tour-2023-pacific-league-showmatch
 1191,184521,DRX,T1,3.0,2.0,DRX,T1,Lower Final,Playoffs,https://www.vlr.gg/184521/drx-vs-t1-champions-tour-2023-pacific-league-playoffs-lf
 1191,184522,Paper Rex,DRX,3.0,2.0,Paper Rex,DRX,Grand Final,Playoffs,https://www.vlr.gg/184522/paper-rex-vs-drx-champions-tour-2023-pacific-league-playoffs-gf
 1188,167348,KOI,NRG,0.0,2.0,NRG,KOI,Alpha - Round of 16,Bracket Stage,https://www.vlr.gg/167348/koi-vs-nrg-esports-champions-tour-2023-lock-in-s-o-paulo-alpha-ro16
@@ -1513,7 +1504,6 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 1188,167375,100 Thieves,FNATIC,0.0,2.0,FNATIC,100 Thieves,Omega - Semifinals,Bracket Stage,https://www.vlr.gg/167375/100-thieves-vs-fnatic-champions-tour-2023-lock-in-s-o-paulo-omega-sf
 1188,167391,LOUD,DRX,3.0,2.0,LOUD,DRX,Semifinals,Playoffs,https://www.vlr.gg/167391/loud-vs-drx-champions-tour-2023-lock-in-s-o-paulo-sf
 1188,167392,Natus Vincere,FNATIC,0.0,3.0,FNATIC,Natus Vincere,Semifinals,Playoffs,https://www.vlr.gg/167392/natus-vincere-vs-fnatic-champions-tour-2023-lock-in-s-o-paulo-sf
-1188,180279,Team tarik,Team FRTTT,0.0,1.0,Team FRTTT,Team tarik,Showmatch,,https://www.vlr.gg/180279/team-tarik-vs-team-frttt-champions-tour-2023-lock-in-s-o-paulo-match
 1188,167393,LOUD,FNATIC,2.0,3.0,FNATIC,LOUD,Grand Final,Playoffs,https://www.vlr.gg/167393/loud-vs-fnatic-champions-tour-2023-lock-in-s-o-paulo-gf
 1015,130617,Paper Rex,EDward Gaming,2.0,1.0,Paper Rex,EDward Gaming,Opening (A),Group Stage,https://www.vlr.gg/130617/paper-rex-vs-edward-gaming-valorant-champions-2022-group-stage-opening-a
 1015,130618,LEVIATÁN,Team Liquid,2.0,0.0,LEVIATÁN,Team Liquid,Opening (A),Group Stage,https://www.vlr.gg/130618/leviat-n-vs-team-liquid-valorant-champions-2022-group-stage-opening-a
@@ -6028,6 +6018,238 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 581,31112,Alpha Esports Pro,Oasis Gaming,0.0,2.0,Oasis Gaming,Alpha Esports Pro,Semifinals,Main Event,https://www.vlr.gg/31112/alpha-esports-pro-vs-oasis-gaming-champions-tour-philippines-stage-3-challengers-3-main-event-sf
 581,31113,SV Empire,Alpha Esports Pro,2.0,0.0,SV Empire,Alpha Esports Pro,Consolation Final,Main Event,https://www.vlr.gg/31113/sv-empire-vs-alpha-esports-pro-champions-tour-philippines-stage-3-challengers-3-main-event-cf
 581,31114,Sunsparks,Oasis Gaming,1.0,3.0,Oasis Gaming,Sunsparks,Grand Final,Main Event,https://www.vlr.gg/31114/sunsparks-vs-oasis-gaming-champions-tour-philippines-stage-3-challengers-3-main-event-gf
+604,30164,SHOOT FOR FUN,Young Mercenary,2.0,1.0,SHOOT FOR FUN,Young Mercenary,Preliminary Round of 16,Qualifier,https://www.vlr.gg/30164/shoot-for-fun-vs-young-mercenary-champions-tour-vietnam-stage-3-challengers-3-qualifier-pre-ro16
+604,30165,Circus Brothers,57 Rach Bunh Binh,0.0,2.0,57 Rach Bunh Binh,Circus Brothers,Preliminary Round of 16,Qualifier,https://www.vlr.gg/30165/circus-brothers-vs-57-rach-bunh-binh-champions-tour-vietnam-stage-3-challengers-3-qualifier-pre
+604,30166,SHOOT FOR FUN,57 Rach Bunh Binh,0.0,2.0,57 Rach Bunh Binh,SHOOT FOR FUN,Round of 16,Qualifier,https://www.vlr.gg/30166/shoot-for-fun-vs-57-rach-bunh-binh-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30167,StormiG,HE Gaming,0.0,2.0,HE Gaming,StormiG,Round of 16,Qualifier,https://www.vlr.gg/30167/stormig-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30168,Kantic Gaming,5Star,2.0,0.0,Kantic Gaming,5Star,Round of 16,Qualifier,https://www.vlr.gg/30168/kantic-gaming-vs-5star-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30169,Dominus Esports,Lipxitus,2.0,0.0,Dominus Esports,Lipxitus,Round of 16,Qualifier,https://www.vlr.gg/30169/dominus-vs-konoha-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30170,Innocent Cats Esports,ISellPower,1.0,1.0,Innocent Cats Esports,ISellPower,Round of 16,Qualifier,https://www.vlr.gg/30170/innocent-cats-gaming-vs-isellpower-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30171,Lv10FB,Sneaker Daily Meloner,0.0,2.0,Sneaker Daily Meloner,Lv10FB,Round of 16,Qualifier,https://www.vlr.gg/30171/lv10fb-vs-sneaker-daily-meloner-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30172,FEARUS,2K Esports,2.0,1.0,FEARUS,2K Esports,Round of 16,Qualifier,https://www.vlr.gg/30172/fearus-vs-2k-esports-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30173,AKATSUKI,Trinity Five,0.0,2.0,Trinity Five,AKATSUKI,Round of 16,Qualifier,https://www.vlr.gg/30173/akatsuki-vs-trinity-five-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30198,Team Capalot,MEOGANG,2.0,0.0,Team Capalot,MEOGANG,Round of 16,Qualifier,https://www.vlr.gg/30198/team-capalot-vs-meogang-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30199,EGO,Instant Noodles,2.0,0.0,EGO,Instant Noodles,Round of 16,Qualifier,https://www.vlr.gg/30199/ego-vs-instant-noodles-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
+604,30174,57 Rach Bunh Binh,HE Gaming,0.0,2.0,HE Gaming,57 Rach Bunh Binh,Quarterfinals,Qualifier,https://www.vlr.gg/30174/57-rach-bunh-binh-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
+604,30175,Kantic Gaming,Dominus Esports,1.0,2.0,Dominus Esports,Kantic Gaming,Quarterfinals,Qualifier,https://www.vlr.gg/30175/kantic-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
+604,30176,Innocent Cats Esports,Sneaker Daily Meloner,2.0,1.0,Innocent Cats Esports,Sneaker Daily Meloner,Quarterfinals,Qualifier,https://www.vlr.gg/30176/innocent-cats-gaming-vs-sneaker-daily-meloner-champions-tour-vietnam-stage-3-challengers-3-quali
+604,30177,FEARUS,Trinity Five,2.0,1.0,FEARUS,Trinity Five,Quarterfinals,Qualifier,https://www.vlr.gg/30177/fearus-vs-trinity-five-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
+604,30178,Team Capalot,EGO,0.0,2.0,EGO,Team Capalot,Quarterfinals,Qualifier,https://www.vlr.gg/30178/team-capalot-vs-ego-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
+604,25960,FEARUS,DivisionX Gaming,2.0,1.0,FEARUS,DivisionX Gaming,Upper Quarterfinals,Main Event,https://www.vlr.gg/25960/fearus-vs-divisionx-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
+604,25961,HE Gaming,Dominus Esports,2.0,1.0,HE Gaming,Dominus Esports,Upper Quarterfinals,Main Event,https://www.vlr.gg/25961/he-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
+604,25962,EGO,YAMAGAN,2.0,0.0,EGO,YAMAGAN,Upper Quarterfinals,Main Event,https://www.vlr.gg/25962/ego-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
+604,25963,Fancy United Esports,Innocent Cats Esports,2.0,1.0,Fancy United Esports,Innocent Cats Esports,Upper Quarterfinals,Main Event,https://www.vlr.gg/25963/fancy-united-esports-vs-innocent-cats-esports-champions-tour-vietnam-stage-3-challengers-3-main
+604,25968,DivisionX Gaming,Dominus Esports,2.0,0.0,DivisionX Gaming,Dominus Esports,Lower Round 1,Main Event,https://www.vlr.gg/25968/divisionx-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-main-event-lr1
+604,25969,YAMAGAN,Innocent Cats Esports,2.0,0.0,YAMAGAN,Innocent Cats Esports,Lower Round 1,Main Event,https://www.vlr.gg/25969/yamagan-vs-innocent-cats-esports-champions-tour-vietnam-stage-3-challengers-3-main-event-lr1
+604,25964,FEARUS,HE Gaming,2.0,0.0,FEARUS,HE Gaming,Upper Semifinals,Main Event,https://www.vlr.gg/25964/fearus-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event-ubsf
+604,25965,EGO,Fancy United Esports,2.0,1.0,EGO,Fancy United Esports,Upper Semifinals,Main Event,https://www.vlr.gg/25965/ego-vs-fancy-united-esports-champions-tour-vietnam-stage-3-challengers-3-main-event-ubsf
+604,25970,Fancy United Esports,DivisionX Gaming,2.0,0.0,Fancy United Esports,DivisionX Gaming,Lower Round 2,Main Event,https://www.vlr.gg/25970/fancy-united-esports-vs-divisionx-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event
+604,25971,HE Gaming,YAMAGAN,1.0,2.0,YAMAGAN,HE Gaming,Lower Round 2,Main Event,https://www.vlr.gg/25971/he-gaming-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lr2
+604,25966,FEARUS,EGO,0.0,2.0,EGO,FEARUS,Upper Final,Main Event,https://www.vlr.gg/25966/fearus-vs-ego-champions-tour-vietnam-stage-3-challengers-3-main-event-ubf
+604,25972,Fancy United Esports,YAMAGAN,1.0,2.0,YAMAGAN,Fancy United Esports,Lower Round 3,Main Event,https://www.vlr.gg/25972/fancy-united-esports-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lr3
+604,25973,FEARUS,YAMAGAN,0.0,2.0,YAMAGAN,FEARUS,Lower Final,Main Event,https://www.vlr.gg/25973/fearus-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lbf
+604,25967,EGO,YAMAGAN,3.0,1.0,EGO,YAMAGAN,Grand Final,Main Event,https://www.vlr.gg/25967/ego-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-gf
+574,30143,Built Different,Lightning,0.0,1.0,Lightning,Built Different,Quarterfinals,Qualifier,https://www.vlr.gg/30143/built-different-vs-lightning-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-q
+574,30144,CRX Team,Water,0.0,1.0,Water,CRX Team,Quarterfinals,Qualifier,https://www.vlr.gg/30144/crx-team-vs-water-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
+574,30145,All Born to Clutch,Anti Eco Eco Club,0.0,0.0,Anti Eco Eco Club,All Born to Clutch,Quarterfinals,Qualifier,https://www.vlr.gg/30145/all-born-to-clutch-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3
+574,30146,Phoenix,Horse Victory,1.0,0.0,Phoenix,Horse Victory,Quarterfinals,Qualifier,https://www.vlr.gg/30146/phoenix-vs-horse-victory-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
+574,30147,TRAITORS,YMG,0.0,1.0,YMG,TRAITORS,Quarterfinals,Qualifier,https://www.vlr.gg/30147/traitors-vs-ymg-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
+574,30716,Lightning,Water,2.0,0.0,Lightning,Water,Quarterfinals,Main Event,https://www.vlr.gg/30716/lightning-vs-water-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event-qf
+574,30717,Clutch Jeans,Anti Eco Eco Club,0.0,2.0,Anti Eco Eco Club,Clutch Jeans,Quarterfinals,Main Event,https://www.vlr.gg/30717/clutch-jeans-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-e
+574,30718,Five Ace Esports,Phoenix,2.0,0.0,Five Ace Esports,Phoenix,Quarterfinals,Main Event,https://www.vlr.gg/30718/five-ace-e-sports-vs-phoenix-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event
+574,30719,Griffin E-Sports,YMG,2.0,0.0,Griffin E-Sports,YMG,Quarterfinals,Main Event,https://www.vlr.gg/30719/griffin-e-sports-vs-ymg-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event-qf
+574,30720,Lightning,Anti Eco Eco Club,2.0,1.0,Lightning,Anti Eco Eco Club,Semifinals,Main Event,https://www.vlr.gg/30720/lightning-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-even
+574,30721,Five Ace Esports,Griffin E-Sports,2.0,1.0,Five Ace Esports,Griffin E-Sports,Semifinals,Main Event,https://www.vlr.gg/30721/five-ace-e-sports-vs-griffin-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-ma
+574,30723,Lightning,Five Ace Esports,2.0,3.0,Five Ace Esports,Lightning,Grand Final,Main Event,https://www.vlr.gg/30723/lightning-vs-five-ace-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-even
+574,31329,Anti Eco Eco Club,Griffin E-Sports,0.0,0.0,Griffin E-Sports,Anti Eco Eco Club,Consolation Final,Main Event,https://www.vlr.gg/31329/anti-eco-eco-club-vs-griffin-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-ma
+517,27009,En corto gamers,La nueva era,2.0,1.0,En corto gamers,La nueva era,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27009/en-corto-gamers-vs-la-nueva-era-champions-tour-latam-stage-3-challengers-2-ro16
+517,27010,tr4sh,AcidPingWin,2.0,0.0,tr4sh,AcidPingWin,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27010/tr4sh-vs-acidpingwin-champions-tour-latam-stage-3-challengers-2-ro16
+517,27011,Ultimatum,Border Monsters,0.0,2.0,Border Monsters,Ultimatum,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27011/ultimatum-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ro16
+517,27012,Guns and Rage,Skull Cracker,2.0,0.0,Guns and Rage,Skull Cracker,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27012/guns-and-rage-vs-skull-cracker-champions-tour-latam-stage-3-challengers-2-ro16
+517,27013,No Limit Latam,PEEK Gaming,2.0,0.0,No Limit Latam,PEEK Gaming,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27013/no-limit-latam-vs-peek-gaming-champions-tour-latam-stage-3-challengers-2-ro16
+517,27014,Unic,Funkboings,0.0,2.0,Funkboings,Unic,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27014/unic-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ro16
+517,27015,Aztec Green,Granjeros,0.0,2.0,Granjeros,Aztec Green,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27015/aztec-green-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ro16
+517,27016,Intensity Gaming,Reven Esports,1.0,2.0,Reven Esports,Intensity Gaming,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27016/intensity-gaming-vs-reven-esports-champions-tour-latam-stage-3-challengers-2-ro16
+517,27022,Meta Gaming,OPWOLF,2.0,0.0,Meta Gaming,OPWOLF,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27022/meta-gaming-vs-opwolf-champions-tour-latam-stage-3-challengers-2-ro16
+517,27023,PAMPAS,Malvinas Gaming,1.0,2.0,Malvinas Gaming,PAMPAS,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27023/new-pampas-vs-malvinas-gaming-champions-tour-latam-stage-3-challengers-2-ro16
+517,27024,Optix,Team Samurai,2.0,0.0,Optix,Team Samurai,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27024/movistar-optix-vs-team-samurai-champions-tour-latam-stage-3-challengers-2-ro16
+517,27025,LEVIATÁN,OESTE FWT,2.0,0.0,LEVIATÁN,OESTE FWT,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27025/leviat-n-esports-vs-oeste-ftw-champions-tour-latam-stage-3-challengers-2-ro16
+517,27026,Cruzados Esports,La Gran MF14,0.0,0.0,Cruzados Esports,La Gran MF14,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27026/cruzados-esports-vs-la-gran-mf14-champions-tour-latam-stage-3-challengers-2-ro16
+517,27027,Legion de Reconocimiento,TriMG,2.0,1.0,Legion de Reconocimiento,TriMG,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27027/legion-de-reconocimiento-vs-trimg-champions-tour-latam-stage-3-challengers-2-ro16
+517,27028,Ronin Team,FROM NEW YORK,2.0,1.0,Ronin Team,FROM NEW YORK,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27028/ronin-team-vs-from-new-york-champions-tour-latam-stage-3-challengers-2-ro16
+517,27029,SouthEagles Gaming,Velox,0.0,2.0,Velox,SouthEagles Gaming,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27029/southeagles-gaming-vs-velox-champions-tour-latam-stage-3-challengers-2-ro16
+517,27030,Meta Gaming,Malvinas Gaming,2.0,0.0,Meta Gaming,Malvinas Gaming,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27030/meta-gaming-vs-malvinas-gaming-champions-tour-latam-stage-3-challengers-2-qf
+517,27031,Optix,LEVIATÁN,2.0,1.0,Optix,LEVIATÁN,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27031/movistar-optix-vs-leviat-n-esports-champions-tour-latam-stage-3-challengers-2-qf
+517,27032,Cruzados Esports,Legion de Reconocimiento,2.0,0.0,Cruzados Esports,Legion de Reconocimiento,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27032/cruzados-esports-vs-legion-de-reconocimiento-champions-tour-latam-stage-3-challengers-2-qf
+517,27033,Ronin Team,Velox,0.0,2.0,Velox,Ronin Team,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27033/ronin-team-vs-velox-champions-tour-latam-stage-3-challengers-2-qf
+517,27018,En corto gamers,tr4sh,2.0,0.0,En corto gamers,tr4sh,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27018/en-corto-gamers-vs-tr4sh-champions-tour-latam-stage-3-challengers-2-qf
+517,27019,Border Monsters,Guns and Rage,2.0,0.0,Border Monsters,Guns and Rage,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27019/border-monsters-vs-guns-and-rage-champions-tour-latam-stage-3-challengers-2-qf
+517,27020,No Limit Latam,Funkboings,0.0,2.0,Funkboings,No Limit Latam,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27020/no-limit-latam-vs-funkboings-champions-tour-latam-stage-3-challengers-2-qf
+517,27021,Granjeros,Reven Esports,2.0,0.0,Granjeros,Reven Esports,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27021/granjeros-vs-reven-esports-champions-tour-latam-stage-3-challengers-2-qf
+517,27673,9z Team,Optix,1.0,0.0,9z Team,Optix,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27673/9z-team-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27674,Furious Gaming,Cruzados Esports,0.0,1.0,Cruzados Esports,Furious Gaming,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27674/furious-gaming-vs-cruzados-esports-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27675,Kaos Latin Gamers,Meta Gaming,1.0,0.0,Kaos Latin Gamers,Meta Gaming,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27675/kaos-latin-gamers-vs-meta-gaming-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27676,Motion Team,Velox,1.0,0.0,Motion Team,Velox,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27676/motion-team-vs-velox-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27677,Optix,Furious Gaming,2.0,0.0,Optix,Furious Gaming,Lower Round 1,Main Event: LAS,https://www.vlr.gg/27677/movistar-optix-vs-furious-gaming-champions-tour-latam-stage-3-challengers-2-lr1
+517,27678,Meta Gaming,Velox,1.0,2.0,Velox,Meta Gaming,Lower Round 1,Main Event: LAS,https://www.vlr.gg/27678/meta-gaming-vs-velox-champions-tour-latam-stage-3-challengers-2-lr1
+517,27679,9z Team,Cruzados Esports,2.0,1.0,9z Team,Cruzados Esports,Upper Semifinals,Main Event: LAS,https://www.vlr.gg/27679/9z-team-vs-cruzados-esports-champions-tour-latam-stage-3-challengers-2-ubsf
+517,27680,Kaos Latin Gamers,Motion Team,2.0,1.0,Kaos Latin Gamers,Motion Team,Upper Semifinals,Main Event: LAS,https://www.vlr.gg/27680/kaos-latin-gamers-vs-motion-team-champions-tour-latam-stage-3-challengers-2-ubsf
+517,27681,Cruzados Esports,Optix,0.0,2.0,Optix,Cruzados Esports,Lower Round 2,Main Event: LAS,https://www.vlr.gg/27681/cruzados-esports-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-lr2
+517,27682,Motion Team,Velox,2.0,1.0,Motion Team,Velox,Lower Round 2,Main Event: LAS,https://www.vlr.gg/27682/motion-team-vs-velox-champions-tour-latam-stage-3-challengers-2-lr2
+517,27684,Optix,Motion Team,2.0,0.0,Optix,Motion Team,Lower Round 3,Main Event: LAS,https://www.vlr.gg/27684/movistar-optix-vs-motion-team-champions-tour-latam-stage-3-challengers-2-lr3
+517,27683,9z Team,Kaos Latin Gamers,0.0,2.0,Kaos Latin Gamers,9z Team,Upper Final,Main Event: LAS,https://www.vlr.gg/27683/9z-team-vs-kaos-latin-gamers-champions-tour-latam-stage-3-challengers-2-ubf
+517,27685,9z Team,Optix,2.0,0.0,9z Team,Optix,Lower Final,Main Event: LAS,https://www.vlr.gg/27685/9z-team-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-lbf
+517,27891,E-Xolos LAZER,En corto gamers,0.0,1.0,En corto gamers,E-Xolos LAZER,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27891/lazer-vs-en-corto-gamers-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27892,Akave Esports,Border Monsters,0.0,1.0,Border Monsters,Akave Esports,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27892/akave-esports-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27893,Ryze Gaming,Granjeros,0.0,1.0,Granjeros,Ryze Gaming,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27893/ryze-gaming-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27894,Pass Gaming,Funkboings,0.0,1.0,Funkboings,Pass Gaming,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27894/pass-gaming-latam-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ubqf
+517,27895,E-Xolos LAZER,Akave Esports,2.0,0.0,E-Xolos LAZER,Akave Esports,Lower Round 1,Main Event: LAN,https://www.vlr.gg/27895/lazer-vs-akave-esports-champions-tour-latam-stage-3-challengers-2-lr1
+517,27896,Ryze Gaming,Pass Gaming,2.0,1.0,Ryze Gaming,Pass Gaming,Lower Round 1,Main Event: LAN,https://www.vlr.gg/27896/ryze-gaming-vs-pass-gaming-latam-champions-tour-latam-stage-3-challengers-2-lr1
+517,27897,En corto gamers,Border Monsters,0.0,2.0,Border Monsters,En corto gamers,Upper Semifinals,Main Event: LAN,https://www.vlr.gg/27897/en-corto-gamers-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ubsf
+517,27898,Granjeros,Funkboings,2.0,1.0,Granjeros,Funkboings,Upper Semifinals,Main Event: LAN,https://www.vlr.gg/27898/granjeros-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ubsf
+517,27899,En corto gamers,E-Xolos LAZER,0.0,2.0,E-Xolos LAZER,En corto gamers,Lower Round 2,Main Event: LAN,https://www.vlr.gg/27899/en-corto-gamers-vs-lazer-champions-tour-latam-stage-3-challengers-2-lr2
+517,27900,Funkboings,Ryze Gaming,1.0,2.0,Ryze Gaming,Funkboings,Lower Round 2,Main Event: LAN,https://www.vlr.gg/27900/funkboings-vs-ryze-gaming-champions-tour-latam-stage-3-challengers-2-lr2
+517,27902,E-Xolos LAZER,Ryze Gaming,2.0,1.0,E-Xolos LAZER,Ryze Gaming,Lower Round 3,Main Event: LAN,https://www.vlr.gg/27902/lazer-vs-ryze-gaming-champions-tour-latam-stage-3-challengers-2-lr3
+517,27901,Border Monsters,Granjeros,2.0,1.0,Border Monsters,Granjeros,Upper Final,Main Event: LAN,https://www.vlr.gg/27901/border-monsters-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ubf
+517,27903,Granjeros,E-Xolos LAZER,1.0,2.0,E-Xolos LAZER,Granjeros,Lower Final,Main Event: LAN,https://www.vlr.gg/27903/granjeros-vs-lazer-champions-tour-latam-stage-3-challengers-2-lbf
+576,28227,FaZe Clan,pepecool,2.0,0.0,FaZe Clan,pepecool,Round of 128,Open Qualifier,https://www.vlr.gg/28227/faze-clan-vs-pepecool-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28268,East Hill,Depth Esports,2.0,1.0,East Hill,Depth Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28268/east-hill-vs-depth-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28270,Foxy,God Given,1.0,1.0,God Given,Foxy,Round of 128,Open Qualifier,https://www.vlr.gg/28270/foxy-vs-aim-stars-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28219,Soniqs,Method2Madness,2.0,0.0,Soniqs,Method2Madness,Round of 128,Open Qualifier,https://www.vlr.gg/28219/soniqs-vs-method2madness-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28220,Vial,Company 8,2.0,0.0,Vial,Company 8,Round of 128,Open Qualifier,https://www.vlr.gg/28220/vial-vs-company-8-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28221,Fortnite Fraggers,Stealth,2.0,0.0,Fortnite Fraggers,Stealth,Round of 128,Open Qualifier,https://www.vlr.gg/28221/fortnite-fraggers-vs-stealth-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28222,OOKERS,WeBareBears,2.0,0.0,OOKERS,WeBareBears,Round of 128,Open Qualifier,https://www.vlr.gg/28222/ookers-vs-webarebears-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28223,ez5,Last Resistance,2.0,0.0,ez5,Last Resistance,Round of 128,Open Qualifier,https://www.vlr.gg/28223/ez5-vs-last-resistance-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28224,What's going on,Damn I Love Fwogs,2.0,0.0,What's going on,Damn I Love Fwogs,Round of 128,Open Qualifier,https://www.vlr.gg/28224/whats-going-on-vs-damn-i-love-fwogs-champions-tour-north-america-stage-3-challengers-2-qualifie
+576,28225,Ghost Gaming,White Lotus,2.0,0.0,Ghost Gaming,White Lotus,Round of 128,Open Qualifier,https://www.vlr.gg/28225/ghost-gaming-vs-white-lotus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28226,ex-Recon 5,Frag Hunters,1.0,2.0,Frag Hunters,ex-Recon 5,Round of 128,Open Qualifier,https://www.vlr.gg/28226/recon-5-vs-frag-hunters-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28228,slime slats,Reborn,2.0,0.0,slime slats,Reborn,Round of 128,Open Qualifier,https://www.vlr.gg/28228/slime-slats-vs-reborn-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28229,Brimstone Gaming,Dank Daddies,0.0,0.0,Brimstone Gaming,Dank Daddies,Round of 128,Open Qualifier,https://www.vlr.gg/28229/brimstone-gaming-vs-dank-daddies-champions-tour-north-america-stage-3-challengers-2-qualifier-ro
+576,28230,Cloud9 White,Evolved Gamers,2.0,1.0,Cloud9 White,Evolved Gamers,Round of 128,Open Qualifier,https://www.vlr.gg/28230/cloud9-white-vs-evolved-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
+576,28231,Immortals,Lobster Car,2.0,0.0,Immortals,Lobster Car,Round of 128,Open Qualifier,https://www.vlr.gg/28231/immortals-vs-lobster-car-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28232,IlluZion,UGK Esports,2.0,0.0,IlluZion,UGK Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28232/illuzion-black-vs-ugk-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28233,1337,MoBuckets,2.0,0.0,1337,MoBuckets,Round of 128,Open Qualifier,https://www.vlr.gg/28233/1337-vs-mobuckets-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28234,All Around Savants,STREET SHARKS,2.0,0.0,All Around Savants,STREET SHARKS,Round of 128,Open Qualifier,https://www.vlr.gg/28234/all-around-savants-vs-street-sharks-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28235,DarkZero Esports,PSISTORM,2.0,0.0,DarkZero Esports,PSISTORM,Round of 128,Open Qualifier,https://www.vlr.gg/28235/darkzero-esports-vs-psistorm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28236,afterMath Esports,FIU,0.0,2.0,FIU,afterMath Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28236/aftermath-esports-vs-fiu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28237,Big Frames,STORM,2.0,0.0,Big Frames,STORM,Round of 128,Open Qualifier,https://www.vlr.gg/28237/big-frames-vs-storm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28238,Last Round Save,Aggie Gaming at UC,2.0,0.0,Last Round Save,Aggie Gaming at UC,Round of 128,Open Qualifier,https://www.vlr.gg/28238/last-round-save-vs-aggie-gaming-at-uc-champions-tour-north-america-stage-3-challengers-2-qualifi
+576,28239,Knights,Anime Aimers,2.0,0.0,Knights,Anime Aimers,Round of 128,Open Qualifier,https://www.vlr.gg/28239/knights-vs-anime-aimers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28240,ECAP,Buffalo,2.0,1.0,ECAP,Buffalo,Round of 128,Open Qualifier,https://www.vlr.gg/28240/ecap-vs-university-at-buffalo-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28241,SoaR,Zoomers,2.0,0.0,SoaR,Zoomers,Round of 128,Open Qualifier,https://www.vlr.gg/28241/soar-vs-zoomers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28242,Valkyrie,Crowd Pleasers,2.0,1.0,Valkyrie,Crowd Pleasers,Round of 128,Open Qualifier,https://www.vlr.gg/28242/valkyrie-vs-crowd-pleasers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28243,Andbox,Sway eSports,2.0,0.0,Andbox,Sway eSports,Round of 128,Open Qualifier,https://www.vlr.gg/28243/andbox-vs-swaygg-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28244,Organic Gamers,freelo,1.0,0.0,Organic Gamers,freelo,Round of 128,Open Qualifier,https://www.vlr.gg/28244/organic-gamers-vs-freelo-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28245,Zero MarksMen,Bob's Girls,2.0,0.0,Zero MarksMen,Bob's Girls,Round of 128,Open Qualifier,https://www.vlr.gg/28245/zero-marksmen-vs-bobs-girls-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28246,CoT,99% Effort,2.0,0.0,CoT,99% Effort,Round of 128,Open Qualifier,https://www.vlr.gg/28246/cot-vs-99-effort-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28247,TSM,Team Mystic,2.0,0.0,TSM,Team Mystic,Round of 128,Open Qualifier,https://www.vlr.gg/28247/tsm-vs-team-mystic-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28248,303 Esports,4 Gorillas and A Monkey,2.0,0.0,303 Esports,4 Gorillas and A Monkey,Round of 128,Open Qualifier,https://www.vlr.gg/28248/303-esports-vs-4-gorillas-and-a-monkey-champions-tour-north-america-stage-3-challengers-2-qualif
+576,28249,Squirtle Squad,Apes Together Strong,2.0,0.0,Squirtle Squad,Apes Together Strong,Round of 128,Open Qualifier,https://www.vlr.gg/28249/squirtle-squad-vs-apes-together-strong-champions-tour-north-america-stage-3-challengers-2-qualif
+576,28250,Levitate,FLu Esports,1.0,2.0,FLu Esports,Levitate,Round of 128,Open Qualifier,https://www.vlr.gg/28250/levitate-vs-flu-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28251,T1,Spectral Esports Purple,2.0,0.0,T1,Spectral Esports Purple,Round of 128,Open Qualifier,https://www.vlr.gg/28251/t1-vs-spectral-esports-purple-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28252,Taipan Esports,o7,2.0,1.0,Taipan Esports,o7,Round of 128,Open Qualifier,https://www.vlr.gg/28252/taipan-esports-vs-o7-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28253,Bait Academy,Aspyre Entertainment,2.0,0.0,Bait Academy,Aspyre Entertainment,Round of 128,Open Qualifier,https://www.vlr.gg/28253/project-13-vs-aspyre-entertainment-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28254,Professional Malders,Synergy,2.0,0.0,Professional Malders,Synergy,Round of 128,Open Qualifier,https://www.vlr.gg/28254/professional-malders-vs-synergy-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
+576,28255,Renegades,Waifu Warriors,2.0,0.0,Renegades,Waifu Warriors,Round of 128,Open Qualifier,https://www.vlr.gg/28255/renegades-vs-waifu-warriors-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28256,Shopify Rebellion GC,Pog Champions,2.0,0.0,Shopify Rebellion GC,Pog Champions,Round of 128,Open Qualifier,https://www.vlr.gg/28256/shopify-rebellion-vs-pog-champions-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28257,YFP,mozzymembas,2.0,1.0,YFP,mozzymembas,Round of 128,Open Qualifier,https://www.vlr.gg/28257/yfp-gaming-vs-mozzymembas-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28258,FYB,Positive Mental Attitude,0.0,2.0,Positive Mental Attitude,FYB,Round of 128,Open Qualifier,https://www.vlr.gg/28258/fyb-vs-positive-mental-attitude-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
+576,28259,VIRTUOSO,Double Vision,2.0,0.0,VIRTUOSO,Double Vision,Round of 128,Open Qualifier,https://www.vlr.gg/28259/virtuoso-vs-double-vision-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28260,Sbread Gaming,Team Reckaroo,0.0,0.0,Team Reckaroo,Sbread Gaming,Round of 128,Open Qualifier,https://www.vlr.gg/28260/sbread-gaming-vs-norcal-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
+576,28261,DIVIZE,HalfBliss,2.0,0.0,DIVIZE,HalfBliss,Round of 128,Open Qualifier,https://www.vlr.gg/28261/divize-vs-eclectiq-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28262,Down Two Earth,Indiana Syndicate,2.0,1.0,Down Two Earth,Indiana Syndicate,Round of 128,Open Qualifier,https://www.vlr.gg/28262/down-two-earth-vs-indiana-syndicate-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28263,Built By Gamers,Hoax,2.0,0.0,Built By Gamers,Hoax,Round of 128,Open Qualifier,https://www.vlr.gg/28263/built-by-gamers-vs-hoax-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28264,Carpe Noctem,Amogus,2.0,0.0,Carpe Noctem,Amogus,Round of 128,Open Qualifier,https://www.vlr.gg/28264/carpe-noctem-vs-amogus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28265,BASILISK,MIRACLE,2.0,0.0,BASILISK,MIRACLE,Round of 128,Open Qualifier,https://www.vlr.gg/28265/team-basilisk-vs-miracle-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28266,HorizonGG,Zelos,2.0,0.0,HorizonGG,Zelos,Round of 128,Open Qualifier,https://www.vlr.gg/28266/horizongg-vs-zelos-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28267,Cloud9,Celestial Violet,2.0,0.0,Cloud9,Celestial Violet,Round of 128,Open Qualifier,https://www.vlr.gg/28267/cloud9-blue-vs-celestial-violet-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
+576,28269,Good Fellas,Sussy,2.0,0.0,Good Fellas,Sussy,Round of 128,Open Qualifier,https://www.vlr.gg/28269/good-fellas-vs-sussy-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28271,Complexity,Carnos Arks,2.0,0.0,Complexity,Carnos Arks,Round of 128,Open Qualifier,https://www.vlr.gg/28271/complexity-vs-carnos-arks-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28272,Karma,For Fun,2.0,0.0,Karma,For Fun,Round of 128,Open Qualifier,https://www.vlr.gg/28272/karma-vs-for-fun-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28273,Evil Geniuses,Team Volpid,2.0,0.0,Evil Geniuses,Team Volpid,Round of 128,Open Qualifier,https://www.vlr.gg/28273/evil-geniuses-vs-team-volpid-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28274,Lazarus,XTR,2.0,0.0,Lazarus,XTR,Round of 128,Open Qualifier,https://www.vlr.gg/28274/lazarus-vs-xtr-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28275,Luminosity,Spectrum Swing,2.0,0.0,Luminosity,Spectrum Swing,Round of 128,Open Qualifier,https://www.vlr.gg/28275/luminosity-vs-spectrum-swing-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28276,CLG Red,Hysteria,0.0,2.0,Hysteria,CLG Red,Round of 128,Open Qualifier,https://www.vlr.gg/28276/clg-red-vs-hysteria-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28277,Fenrir,UYU,2.0,1.0,Fenrir,UYU,Round of 128,Open Qualifier,https://www.vlr.gg/28277/fenrir-vs-uyu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28278,Time Out,Vale,2.0,0.0,Time Out,Vale,Round of 128,Open Qualifier,https://www.vlr.gg/28278/p11-vs-vale-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28279,NRG,Magma,2.0,0.0,NRG,Magma,Round of 128,Open Qualifier,https://www.vlr.gg/28279/nrg-esports-vs-magma-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28280,Rock Bottom,Xplicit,0.0,0.0,Rock Bottom,Xplicit,Round of 128,Open Qualifier,https://www.vlr.gg/28280/rock-bottom-vs-xplicit-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28281,Resonate,Fidelity,2.0,0.0,Resonate,Fidelity,Round of 128,Open Qualifier,https://www.vlr.gg/28281/resonate-vs-fidelity-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28282,Able Esports,Karasuno,2.0,0.0,Able Esports,Karasuno,Round of 128,Open Qualifier,https://www.vlr.gg/28282/able-esports-vs-karasuno-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
+576,28287,FaZe Clan,slime slats,2.0,0.0,FaZe Clan,slime slats,Round of 64,Open Qualifier,https://www.vlr.gg/28287/faze-clan-vs-slime-slats-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28297,TSM,303 Esports,2.0,0.0,TSM,303 Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28297/tsm-vs-303-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28289,Immortals,IlluZion,2.0,0.0,Immortals,IlluZion,Round of 64,Open Qualifier,https://www.vlr.gg/28289/immortals-vs-illuzion-black-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28284,Fortnite Fraggers,OOKERS,0.0,2.0,OOKERS,Fortnite Fraggers,Round of 64,Open Qualifier,https://www.vlr.gg/28284/fortnite-fraggers-vs-ookers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28285,ez5,What's going on,2.0,0.0,ez5,What's going on,Round of 64,Open Qualifier,https://www.vlr.gg/28285/ez5-vs-whats-going-on-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28301,Renegades,Shopify Rebellion GC,2.0,0.0,Renegades,Shopify Rebellion GC,Round of 64,Open Qualifier,https://www.vlr.gg/28301/renegades-vs-shopify-rebellion-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28298,Squirtle Squad,FLu Esports,2.0,0.0,Squirtle Squad,FLu Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28298/squirtle-squad-vs-flu-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28304,DIVIZE,Down Two Earth,2.0,1.0,DIVIZE,Down Two Earth,Round of 64,Open Qualifier,https://www.vlr.gg/28304/divize-vs-down-two-earth-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28308,Good Fellas,God Given,2.0,0.0,Good Fellas,God Given,Round of 64,Open Qualifier,https://www.vlr.gg/28308/good-fellas-vs-aim-stars-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28283,Soniqs,Vial,2.0,0.0,Soniqs,Vial,Round of 64,Open Qualifier,https://www.vlr.gg/28283/soniqs-vs-vial-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28286,Ghost Gaming,Frag Hunters,2.0,0.0,Ghost Gaming,Frag Hunters,Round of 64,Open Qualifier,https://www.vlr.gg/28286/ghost-gaming-vs-frag-hunters-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28288,Brimstone Gaming,Cloud9 White,2.0,1.0,Brimstone Gaming,Cloud9 White,Round of 64,Open Qualifier,https://www.vlr.gg/28288/brimstone-gaming-vs-cloud9-white-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28290,1337,All Around Savants,1.0,2.0,All Around Savants,1337,Round of 64,Open Qualifier,https://www.vlr.gg/28290/1337-vs-all-around-savants-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28291,DarkZero Esports,FIU,2.0,0.0,DarkZero Esports,FIU,Round of 64,Open Qualifier,https://www.vlr.gg/28291/darkzero-esports-vs-fiu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28292,Big Frames,Last Round Save,0.0,2.0,Last Round Save,Big Frames,Round of 64,Open Qualifier,https://www.vlr.gg/28292/big-frames-vs-last-round-save-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28293,Knights,ECAP,2.0,0.0,Knights,ECAP,Round of 64,Open Qualifier,https://www.vlr.gg/28293/knights-vs-ecap-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28294,SoaR,Valkyrie,2.0,0.0,SoaR,Valkyrie,Round of 64,Open Qualifier,https://www.vlr.gg/28294/soar-vs-valkyrie-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28295,Andbox,Organic Gamers,2.0,0.0,Andbox,Organic Gamers,Round of 64,Open Qualifier,https://www.vlr.gg/28295/andbox-vs-organic-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28296,Zero MarksMen,CoT,2.0,1.0,Zero MarksMen,CoT,Round of 64,Open Qualifier,https://www.vlr.gg/28296/zero-marksmen-vs-cot-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28299,T1,Taipan Esports,2.0,0.0,T1,Taipan Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28299/t1-vs-taipan-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28300,Bait Academy,Professional Malders,2.0,0.0,Bait Academy,Professional Malders,Round of 64,Open Qualifier,https://www.vlr.gg/28300/project-13-vs-professional-malders-champions-tour-north-america-stage-3-challengers-2-qualifier
+576,28302,YFP,Positive Mental Attitude,2.0,0.0,YFP,Positive Mental Attitude,Round of 64,Open Qualifier,https://www.vlr.gg/28302/yfp-gaming-vs-positive-mental-attitude-champions-tour-north-america-stage-3-challengers-2-qualif
+576,28303,VIRTUOSO,Team Reckaroo,2.0,1.0,VIRTUOSO,Team Reckaroo,Round of 64,Open Qualifier,https://www.vlr.gg/28303/virtuoso-vs-norcal-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28305,Built By Gamers,Carpe Noctem,2.0,1.0,Built By Gamers,Carpe Noctem,Round of 64,Open Qualifier,https://www.vlr.gg/28305/built-by-gamers-vs-carpe-noctem-champions-tour-north-america-stage-3-challengers-2-qualifier-ro6
+576,28306,BASILISK,HorizonGG,2.0,1.0,BASILISK,HorizonGG,Round of 64,Open Qualifier,https://www.vlr.gg/28306/team-basilisk-vs-horizongg-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28307,Cloud9,East Hill,2.0,0.0,Cloud9,East Hill,Round of 64,Open Qualifier,https://www.vlr.gg/28307/cloud9-blue-vs-east-hill-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28309,Complexity,Karma,2.0,0.0,Complexity,Karma,Round of 64,Open Qualifier,https://www.vlr.gg/28309/complexity-vs-karma-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28310,Evil Geniuses,Lazarus,2.0,1.0,Evil Geniuses,Lazarus,Round of 64,Open Qualifier,https://www.vlr.gg/28310/evil-geniuses-vs-lazarus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28311,Luminosity,Hysteria,2.0,0.0,Luminosity,Hysteria,Round of 64,Open Qualifier,https://www.vlr.gg/28311/luminosity-vs-hysteria-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28312,Fenrir,Time Out,1.0,2.0,Time Out,Fenrir,Round of 64,Open Qualifier,https://www.vlr.gg/28312/fenrir-vs-p11-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28313,NRG,Rock Bottom,2.0,0.0,NRG,Rock Bottom,Round of 64,Open Qualifier,https://www.vlr.gg/28313/nrg-esports-vs-rock-bottom-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28314,Resonate,Able Esports,2.0,1.0,Resonate,Able Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28314/resonate-vs-able-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
+576,28316,ez5,Ghost Gaming,0.0,2.0,Ghost Gaming,ez5,Round of 32,Open Qualifier,https://www.vlr.gg/28316/ez5-vs-ghost-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28320,Knights,SoaR,2.0,1.0,Knights,SoaR,Round of 32,Open Qualifier,https://www.vlr.gg/28320/knights-vs-soar-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28322,TSM,Squirtle Squad,2.0,0.0,TSM,Squirtle Squad,Round of 32,Open Qualifier,https://www.vlr.gg/28322/tsm-vs-squirtle-squad-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28323,T1,Bait Academy,2.0,0.0,T1,Bait Academy,Round of 32,Open Qualifier,https://www.vlr.gg/28323/t1-vs-project-13-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28325,VIRTUOSO,DIVIZE,0.0,2.0,DIVIZE,VIRTUOSO,Round of 32,Open Qualifier,https://www.vlr.gg/28325/virtuoso-vs-divize-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28327,Cloud9,Good Fellas,2.0,0.0,Cloud9,Good Fellas,Round of 32,Open Qualifier,https://www.vlr.gg/28327/cloud9-blue-vs-good-fellas-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28328,Complexity,Evil Geniuses,2.0,0.0,Complexity,Evil Geniuses,Round of 32,Open Qualifier,https://www.vlr.gg/28328/complexity-vs-evil-geniuses-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28329,Luminosity,Time Out,2.0,0.0,Luminosity,Time Out,Round of 32,Open Qualifier,https://www.vlr.gg/28329/luminosity-vs-p11-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28330,NRG,Resonate,1.0,2.0,Resonate,NRG,Round of 32,Open Qualifier,https://www.vlr.gg/28330/nrg-esports-vs-resonate-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28315,Soniqs,OOKERS,2.0,0.0,Soniqs,OOKERS,Round of 32,Open Qualifier,https://www.vlr.gg/28315/soniqs-vs-ookers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28317,FaZe Clan,Brimstone Gaming,2.0,0.0,FaZe Clan,Brimstone Gaming,Round of 32,Open Qualifier,https://www.vlr.gg/28317/faze-clan-vs-brimstone-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28318,Immortals,All Around Savants,2.0,0.0,Immortals,All Around Savants,Round of 32,Open Qualifier,https://www.vlr.gg/28318/immortals-vs-all-around-savants-champions-tour-north-america-stage-3-challengers-2-qualifier-ro3
+576,28319,DarkZero Esports,Last Round Save,2.0,1.0,DarkZero Esports,Last Round Save,Round of 32,Open Qualifier,https://www.vlr.gg/28319/darkzero-esports-vs-last-round-save-champions-tour-north-america-stage-3-challengers-2-qualifie
+576,28321,Andbox,Zero MarksMen,2.0,0.0,Andbox,Zero MarksMen,Round of 32,Open Qualifier,https://www.vlr.gg/28321/andbox-vs-zero-marksmen-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28324,Renegades,YFP,2.0,0.0,Renegades,YFP,Round of 32,Open Qualifier,https://www.vlr.gg/28324/renegades-vs-yfp-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
+576,28326,Built By Gamers,BASILISK,2.0,0.0,Built By Gamers,BASILISK,Round of 32,Open Qualifier,https://www.vlr.gg/28326/built-by-gamers-vs-team-basilisk-champions-tour-north-america-stage-3-challengers-2-qualifier-ro
+576,28335,T1,Renegades,2.0,0.0,T1,Renegades,Round of 16,Open Qualifier,https://www.vlr.gg/28335/t1-vs-renegades-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28337,Cloud9,Complexity,2.0,0.0,Cloud9,Complexity,Round of 16,Open Qualifier,https://www.vlr.gg/28337/cloud9-blue-vs-complexity-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28332,FaZe Clan,Immortals,2.0,0.0,FaZe Clan,Immortals,Round of 16,Open Qualifier,https://www.vlr.gg/28332/faze-clan-vs-immortals-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28331,Soniqs,Ghost Gaming,0.0,2.0,Ghost Gaming,Soniqs,Round of 16,Open Qualifier,https://www.vlr.gg/28331/soniqs-vs-ghost-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28334,Andbox,TSM,1.0,2.0,TSM,Andbox,Round of 16,Open Qualifier,https://www.vlr.gg/28334/andbox-vs-tsm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28336,DIVIZE,Built By Gamers,0.0,2.0,Built By Gamers,DIVIZE,Round of 16,Open Qualifier,https://www.vlr.gg/28336/divize-vs-built-by-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28338,Luminosity,Resonate,2.0,0.0,Luminosity,Resonate,Round of 16,Open Qualifier,https://www.vlr.gg/28338/luminosity-vs-resonate-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28333,DarkZero Esports,Knights,2.0,1.0,DarkZero Esports,Knights,Round of 16,Open Qualifier,https://www.vlr.gg/28333/darkzero-esports-vs-knights-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
+576,28339,Ghost Gaming,FaZe Clan,0.0,2.0,FaZe Clan,Ghost Gaming,Quarterfinals,Open Qualifier,https://www.vlr.gg/28339/ghost-gaming-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
+576,28340,DarkZero Esports,TSM,1.0,2.0,TSM,DarkZero Esports,Quarterfinals,Open Qualifier,https://www.vlr.gg/28340/darkzero-esports-vs-tsm-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
+576,28341,T1,Built By Gamers,2.0,0.0,T1,Built By Gamers,Quarterfinals,Open Qualifier,https://www.vlr.gg/28341/t1-vs-built-by-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
+576,28342,Cloud9,Luminosity,0.0,2.0,Luminosity,Cloud9,Quarterfinals,Open Qualifier,https://www.vlr.gg/28342/cloud9-blue-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
+576,29251,Gen.G,TSM,1.0,2.0,TSM,Gen.G,Upper Quarterfinals,Main Event,https://www.vlr.gg/29251/gen-g-vs-tsm-champions-tour-north-america-stage-3-challengers-2-ubqf
+576,29252,Version1,T1,1.0,2.0,T1,Version1,Upper Quarterfinals,Main Event,https://www.vlr.gg/29252/version1-vs-t1-champions-tour-north-america-stage-3-challengers-2-ubqf
+576,29254,Rise,FaZe Clan,2.0,0.0,Rise,FaZe Clan,Upper Quarterfinals,Main Event,https://www.vlr.gg/29254/rise-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-ubqf
+576,29253,Pioneers,Luminosity,1.0,2.0,Luminosity,Pioneers,Upper Quarterfinals,Main Event,https://www.vlr.gg/29253/pioneers-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-ubqf
+576,29259,Gen.G,Version1,2.0,1.0,Gen.G,Version1,Lower Round 1,Main Event,https://www.vlr.gg/29259/gen-g-vs-version1-champions-tour-north-america-stage-3-challengers-2-lr1
+576,29260,Pioneers,FaZe Clan,0.0,2.0,FaZe Clan,Pioneers,Lower Round 1,Main Event,https://www.vlr.gg/29260/pioneers-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr1
+576,29255,TSM,T1,2.0,1.0,TSM,T1,Upper Semifinals,Main Event,https://www.vlr.gg/29255/tsm-vs-t1-champions-tour-north-america-stage-3-challengers-2-ubsf
+576,29256,Luminosity,Rise,2.0,0.0,Luminosity,Rise,Upper Semifinals,Main Event,https://www.vlr.gg/29256/luminosity-vs-rise-champions-tour-north-america-stage-3-challengers-2-ubsf
+576,29261,Rise,Gen.G,2.0,0.0,Rise,Gen.G,Lower Round 2,Main Event,https://www.vlr.gg/29261/rise-vs-gen-g-champions-tour-north-america-stage-3-challengers-2-lr2
+576,29262,T1,FaZe Clan,0.0,2.0,FaZe Clan,T1,Lower Round 2,Main Event,https://www.vlr.gg/29262/t1-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr2
+576,29257,TSM,Luminosity,2.0,0.0,TSM,Luminosity,Upper Final,Main Event,https://www.vlr.gg/29257/tsm-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-ubf
+576,29263,Rise,FaZe Clan,1.0,2.0,FaZe Clan,Rise,Lower Round 3,Main Event,https://www.vlr.gg/29263/rise-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr3
+576,29264,Luminosity,FaZe Clan,0.0,2.0,FaZe Clan,Luminosity,Lower Final,Main Event,https://www.vlr.gg/29264/luminosity-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lbf
+576,29258,TSM,FaZe Clan,3.0,1.0,TSM,FaZe Clan,Grand Final,Main Event,https://www.vlr.gg/29258/tsm-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-gf
 544,27950,Young Supremacy,OG,0.0,2.0,OG,Young Supremacy,Round of 256,Open Qualifier,https://www.vlr.gg/27950/young-supremacy-vs-og-champions-tour-europe-stage-3-challengers-2-ro256
 544,27957,Evereux,RISE Esports,0.0,0.0,RISE Esports,Evereux,Round of 256,Open Qualifier,https://www.vlr.gg/27957/evereux-vs-rise-esports-champions-tour-europe-stage-3-challengers-2-ro256
 544,27958,Mango Popcorn,soyboys,0.0,0.0,soyboys,Mango Popcorn,Round of 256,Open Qualifier,https://www.vlr.gg/27958/mango-popcorn-vs-soyboys-champions-tour-europe-stage-3-challengers-2-ro256
@@ -12930,235 +13152,3 @@ tournament_id,match_id,team1_name,team2_name,score1,score2,winner_name,loser_nam
 285,9461,INFINITY,Pro Hub Gaming,1.0,0.0,INFINITY,Pro Hub Gaming,Consolation Final,Main Event: LAN,https://www.vlr.gg/9461/infinity-esports-vs-pro-hub-gaming-champions-tour-latam-stage-1-challengers-1-main-event-lan-cf
 285,9462,9z Team,Furious Gaming,0.0,1.0,Furious Gaming,9z Team,Runner-Up Finals,Main Event: LAS,https://www.vlr.gg/9462/9z-team-vs-furious-gaming-champions-tour-latam-stage-1-challengers-1-main-event-las-rupf
 285,9271,LDM Esports,E-Xolos LAZER,0.0,2.0,E-Xolos LAZER,LDM Esports,Grand Final,Main Event: LAN,https://www.vlr.gg/9271/ldm-esports-vs-lazer-klan-champions-tour-latam-stage-1-challengers-1-main-event-lan-gf
-604,30164,SHOOT FOR FUN,Young Mercenary,2,1,SHOOT FOR FUN,Young Mercenary,Preliminary Round of 16,Qualifier,https://www.vlr.gg/30164/shoot-for-fun-vs-young-mercenary-champions-tour-vietnam-stage-3-challengers-3-qualifier-pre-ro16
-604,30165,Circus Brothers,57 Rach Bunh Binh,0,2,57 Rach Bunh Binh,Circus Brothers,Preliminary Round of 16,Qualifier,https://www.vlr.gg/30165/circus-brothers-vs-57-rach-bunh-binh-champions-tour-vietnam-stage-3-challengers-3-qualifier-pre
-604,30166,SHOOT FOR FUN,57 Rach Bunh Binh,0,2,57 Rach Bunh Binh,SHOOT FOR FUN,Round of 16,Qualifier,https://www.vlr.gg/30166/shoot-for-fun-vs-57-rach-bunh-binh-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30167,StormiG,HE Gaming,0,2,HE Gaming,StormiG,Round of 16,Qualifier,https://www.vlr.gg/30167/stormig-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30168,Kantic Gaming,5Star,2,0,Kantic Gaming,5Star,Round of 16,Qualifier,https://www.vlr.gg/30168/kantic-gaming-vs-5star-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30169,Dominus Esports,Lipxitus,2,0,Dominus Esports,Lipxitus,Round of 16,Qualifier,https://www.vlr.gg/30169/dominus-vs-konoha-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30170,Innocent Cats Esports,ISellPower,1,1,Innocent Cats Esports,ISellPower,Round of 16,Qualifier,https://www.vlr.gg/30170/innocent-cats-gaming-vs-isellpower-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30171,Lv10FB,Sneaker Daily Meloner,0,2,Sneaker Daily Meloner,Lv10FB,Round of 16,Qualifier,https://www.vlr.gg/30171/lv10fb-vs-sneaker-daily-meloner-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30172,FEARUS,2K Esports,2,1,FEARUS,2K Esports,Round of 16,Qualifier,https://www.vlr.gg/30172/fearus-vs-2k-esports-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30173,AKATSUKI,Trinity Five,0,2,Trinity Five,AKATSUKI,Round of 16,Qualifier,https://www.vlr.gg/30173/akatsuki-vs-trinity-five-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30198,Team Capalot,MEOGANG,2,0,Team Capalot,MEOGANG,Round of 16,Qualifier,https://www.vlr.gg/30198/team-capalot-vs-meogang-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30199,EGO,Instant Noodles,2,0,EGO,Instant Noodles,Round of 16,Qualifier,https://www.vlr.gg/30199/ego-vs-instant-noodles-champions-tour-vietnam-stage-3-challengers-3-qualifier-ro16
-604,30174,57 Rach Bunh Binh,HE Gaming,0,2,HE Gaming,57 Rach Bunh Binh,Quarterfinals,Qualifier,https://www.vlr.gg/30174/57-rach-bunh-binh-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
-604,30175,Kantic Gaming,Dominus Esports,1,2,Dominus Esports,Kantic Gaming,Quarterfinals,Qualifier,https://www.vlr.gg/30175/kantic-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
-604,30176,Innocent Cats Esports,Sneaker Daily Meloner,2,1,Innocent Cats Esports,Sneaker Daily Meloner,Quarterfinals,Qualifier,https://www.vlr.gg/30176/innocent-cats-gaming-vs-sneaker-daily-meloner-champions-tour-vietnam-stage-3-challengers-3-quali
-604,30177,FEARUS,Trinity Five,2,1,FEARUS,Trinity Five,Quarterfinals,Qualifier,https://www.vlr.gg/30177/fearus-vs-trinity-five-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
-604,30178,Team Capalot,EGO,0,2,EGO,Team Capalot,Quarterfinals,Qualifier,https://www.vlr.gg/30178/team-capalot-vs-ego-champions-tour-vietnam-stage-3-challengers-3-qualifier-qf
-604,25960,FEARUS,DivisionX Gaming,2,1,FEARUS,DivisionX Gaming,Upper Quarterfinals,Main Event,https://www.vlr.gg/25960/fearus-vs-divisionx-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
-604,25961,HE Gaming,Dominus Esports,2,1,HE Gaming,Dominus Esports,Upper Quarterfinals,Main Event,https://www.vlr.gg/25961/he-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
-604,25962,EGO,YAMAGAN,2,0,EGO,YAMAGAN,Upper Quarterfinals,Main Event,https://www.vlr.gg/25962/ego-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-ubqf
-604,25963,Fancy United Esports,Innocent Cats Esports,2,1,Fancy United Esports,Innocent Cats Esports,Upper Quarterfinals,Main Event,https://www.vlr.gg/25963/fancy-united-esports-vs-innocent-cats-esports-champions-tour-vietnam-stage-3-challengers-3-main
-604,25968,DivisionX Gaming,Dominus Esports,2,0,DivisionX Gaming,Dominus Esports,Lower Round 1,Main Event,https://www.vlr.gg/25968/divisionx-gaming-vs-dominus-champions-tour-vietnam-stage-3-challengers-3-main-event-lr1
-604,25969,YAMAGAN,Innocent Cats Esports,2,0,YAMAGAN,Innocent Cats Esports,Lower Round 1,Main Event,https://www.vlr.gg/25969/yamagan-vs-innocent-cats-esports-champions-tour-vietnam-stage-3-challengers-3-main-event-lr1
-604,25964,FEARUS,HE Gaming,2,0,FEARUS,HE Gaming,Upper Semifinals,Main Event,https://www.vlr.gg/25964/fearus-vs-he-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event-ubsf
-604,25965,EGO,Fancy United Esports,2,1,EGO,Fancy United Esports,Upper Semifinals,Main Event,https://www.vlr.gg/25965/ego-vs-fancy-united-esports-champions-tour-vietnam-stage-3-challengers-3-main-event-ubsf
-604,25970,Fancy United Esports,DivisionX Gaming,2,0,Fancy United Esports,DivisionX Gaming,Lower Round 2,Main Event,https://www.vlr.gg/25970/fancy-united-esports-vs-divisionx-gaming-champions-tour-vietnam-stage-3-challengers-3-main-event
-604,25971,HE Gaming,YAMAGAN,1,2,YAMAGAN,HE Gaming,Lower Round 2,Main Event,https://www.vlr.gg/25971/he-gaming-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lr2
-604,25966,FEARUS,EGO,0,2,EGO,FEARUS,Upper Final,Main Event,https://www.vlr.gg/25966/fearus-vs-ego-champions-tour-vietnam-stage-3-challengers-3-main-event-ubf
-604,25972,Fancy United Esports,YAMAGAN,1,2,YAMAGAN,Fancy United Esports,Lower Round 3,Main Event,https://www.vlr.gg/25972/fancy-united-esports-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lr3
-604,25973,FEARUS,YAMAGAN,0,2,YAMAGAN,FEARUS,Lower Final,Main Event,https://www.vlr.gg/25973/fearus-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-lbf
-604,25967,EGO,YAMAGAN,3,1,EGO,YAMAGAN,Grand Final,Main Event,https://www.vlr.gg/25967/ego-vs-yamagan-champions-tour-vietnam-stage-3-challengers-3-main-event-gf
-574,30143,Built Different,Lightning,0,1,Lightning,Built Different,Quarterfinals,Qualifier,https://www.vlr.gg/30143/built-different-vs-lightning-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-q
-574,30144,CRX Team,Water,0,1,Water,CRX Team,Quarterfinals,Qualifier,https://www.vlr.gg/30144/crx-team-vs-water-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
-574,30145,All Born to Clutch,Anti Eco Eco Club,0,0,Anti Eco Eco Club,All Born to Clutch,Quarterfinals,Qualifier,https://www.vlr.gg/30145/all-born-to-clutch-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3
-574,30146,Phoenix,Horse Victory,1,0,Phoenix,Horse Victory,Quarterfinals,Qualifier,https://www.vlr.gg/30146/phoenix-vs-horse-victory-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
-574,30147,TRAITORS,YMG,0,1,YMG,TRAITORS,Quarterfinals,Qualifier,https://www.vlr.gg/30147/traitors-vs-ymg-champions-tour-hong-kong-taiwan-stage-3-challengers-3-qualifier-qf
-574,30716,Lightning,Water,2,0,Lightning,Water,Quarterfinals,Main Event,https://www.vlr.gg/30716/lightning-vs-water-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event-qf
-574,30717,Clutch Jeans,Anti Eco Eco Club,0,2,Anti Eco Eco Club,Clutch Jeans,Quarterfinals,Main Event,https://www.vlr.gg/30717/clutch-jeans-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-e
-574,30718,Five Ace Esports,Phoenix,2,0,Five Ace Esports,Phoenix,Quarterfinals,Main Event,https://www.vlr.gg/30718/five-ace-e-sports-vs-phoenix-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event
-574,30719,Griffin E-Sports,YMG,2,0,Griffin E-Sports,YMG,Quarterfinals,Main Event,https://www.vlr.gg/30719/griffin-e-sports-vs-ymg-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-event-qf
-574,30720,Lightning,Anti Eco Eco Club,2,1,Lightning,Anti Eco Eco Club,Semifinals,Main Event,https://www.vlr.gg/30720/lightning-vs-anti-eco-eco-club-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-even
-574,30721,Five Ace Esports,Griffin E-Sports,2,1,Five Ace Esports,Griffin E-Sports,Semifinals,Main Event,https://www.vlr.gg/30721/five-ace-e-sports-vs-griffin-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-ma
-574,30723,Lightning,Five Ace Esports,2,3,Five Ace Esports,Lightning,Grand Final,Main Event,https://www.vlr.gg/30723/lightning-vs-five-ace-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-main-even
-574,31329,Anti Eco Eco Club,Griffin E-Sports,0,0,Griffin E-Sports,Anti Eco Eco Club,Consolation Final,Main Event,https://www.vlr.gg/31329/anti-eco-eco-club-vs-griffin-e-sports-champions-tour-hong-kong-taiwan-stage-3-challengers-3-ma
-517,27009,En corto gamers,La nueva era,2,1,En corto gamers,La nueva era,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27009/en-corto-gamers-vs-la-nueva-era-champions-tour-latam-stage-3-challengers-2-ro16
-517,27010,tr4sh,AcidPingWin,2,0,tr4sh,AcidPingWin,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27010/tr4sh-vs-acidpingwin-champions-tour-latam-stage-3-challengers-2-ro16
-517,27011,Ultimatum,Border Monsters,0,2,Border Monsters,Ultimatum,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27011/ultimatum-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ro16
-517,27012,Guns and Rage,Skull Cracker,2,0,Guns and Rage,Skull Cracker,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27012/guns-and-rage-vs-skull-cracker-champions-tour-latam-stage-3-challengers-2-ro16
-517,27013,No Limit Latam,PEEK Gaming,2,0,No Limit Latam,PEEK Gaming,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27013/no-limit-latam-vs-peek-gaming-champions-tour-latam-stage-3-challengers-2-ro16
-517,27014,Unic,Funkboings,0,2,Funkboings,Unic,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27014/unic-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ro16
-517,27015,Aztec Green,Granjeros,0,2,Granjeros,Aztec Green,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27015/aztec-green-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ro16
-517,27016,Intensity Gaming,Reven Esports,1,2,Reven Esports,Intensity Gaming,Round of 16,Open Qualifier: LAN,https://www.vlr.gg/27016/intensity-gaming-vs-reven-esports-champions-tour-latam-stage-3-challengers-2-ro16
-517,27022,Meta Gaming,OPWOLF,2,0,Meta Gaming,OPWOLF,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27022/meta-gaming-vs-opwolf-champions-tour-latam-stage-3-challengers-2-ro16
-517,27023,PAMPAS,Malvinas Gaming,1,2,Malvinas Gaming,PAMPAS,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27023/new-pampas-vs-malvinas-gaming-champions-tour-latam-stage-3-challengers-2-ro16
-517,27024,Optix,Team Samurai,2,0,Optix,Team Samurai,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27024/movistar-optix-vs-team-samurai-champions-tour-latam-stage-3-challengers-2-ro16
-517,27025,LEVIATÁN,OESTE FWT,2,0,LEVIATÁN,OESTE FWT,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27025/leviat-n-esports-vs-oeste-ftw-champions-tour-latam-stage-3-challengers-2-ro16
-517,27026,Cruzados Esports,La Gran MF14,0,0,Cruzados Esports,La Gran MF14,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27026/cruzados-esports-vs-la-gran-mf14-champions-tour-latam-stage-3-challengers-2-ro16
-517,27027,Legion de Reconocimiento,TriMG,2,1,Legion de Reconocimiento,TriMG,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27027/legion-de-reconocimiento-vs-trimg-champions-tour-latam-stage-3-challengers-2-ro16
-517,27028,Ronin Team,FROM NEW YORK,2,1,Ronin Team,FROM NEW YORK,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27028/ronin-team-vs-from-new-york-champions-tour-latam-stage-3-challengers-2-ro16
-517,27029,SouthEagles Gaming,Velox,0,2,Velox,SouthEagles Gaming,Round of 16,Open Qualifier: LAS,https://www.vlr.gg/27029/southeagles-gaming-vs-velox-champions-tour-latam-stage-3-challengers-2-ro16
-517,27030,Meta Gaming,Malvinas Gaming,2,0,Meta Gaming,Malvinas Gaming,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27030/meta-gaming-vs-malvinas-gaming-champions-tour-latam-stage-3-challengers-2-qf
-517,27031,Optix,LEVIATÁN,2,1,Optix,LEVIATÁN,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27031/movistar-optix-vs-leviat-n-esports-champions-tour-latam-stage-3-challengers-2-qf
-517,27032,Cruzados Esports,Legion de Reconocimiento,2,0,Cruzados Esports,Legion de Reconocimiento,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27032/cruzados-esports-vs-legion-de-reconocimiento-champions-tour-latam-stage-3-challengers-2-qf
-517,27033,Ronin Team,Velox,0,2,Velox,Ronin Team,Quarterfinals,Open Qualifier: LAS,https://www.vlr.gg/27033/ronin-team-vs-velox-champions-tour-latam-stage-3-challengers-2-qf
-517,27018,En corto gamers,tr4sh,2,0,En corto gamers,tr4sh,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27018/en-corto-gamers-vs-tr4sh-champions-tour-latam-stage-3-challengers-2-qf
-517,27019,Border Monsters,Guns and Rage,2,0,Border Monsters,Guns and Rage,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27019/border-monsters-vs-guns-and-rage-champions-tour-latam-stage-3-challengers-2-qf
-517,27020,No Limit Latam,Funkboings,0,2,Funkboings,No Limit Latam,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27020/no-limit-latam-vs-funkboings-champions-tour-latam-stage-3-challengers-2-qf
-517,27021,Granjeros,Reven Esports,2,0,Granjeros,Reven Esports,Quarterfinals,Open Qualifier: LAN,https://www.vlr.gg/27021/granjeros-vs-reven-esports-champions-tour-latam-stage-3-challengers-2-qf
-517,27673,9z Team,Optix,1,0,9z Team,Optix,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27673/9z-team-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27674,Furious Gaming,Cruzados Esports,0,1,Cruzados Esports,Furious Gaming,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27674/furious-gaming-vs-cruzados-esports-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27675,Kaos Latin Gamers,Meta Gaming,1,0,Kaos Latin Gamers,Meta Gaming,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27675/kaos-latin-gamers-vs-meta-gaming-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27676,Motion Team,Velox,1,0,Motion Team,Velox,Upper Quarterfinals,Main Event: LAS,https://www.vlr.gg/27676/motion-team-vs-velox-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27677,Optix,Furious Gaming,2,0,Optix,Furious Gaming,Lower Round 1,Main Event: LAS,https://www.vlr.gg/27677/movistar-optix-vs-furious-gaming-champions-tour-latam-stage-3-challengers-2-lr1
-517,27678,Meta Gaming,Velox,1,2,Velox,Meta Gaming,Lower Round 1,Main Event: LAS,https://www.vlr.gg/27678/meta-gaming-vs-velox-champions-tour-latam-stage-3-challengers-2-lr1
-517,27679,9z Team,Cruzados Esports,2,1,9z Team,Cruzados Esports,Upper Semifinals,Main Event: LAS,https://www.vlr.gg/27679/9z-team-vs-cruzados-esports-champions-tour-latam-stage-3-challengers-2-ubsf
-517,27680,Kaos Latin Gamers,Motion Team,2,1,Kaos Latin Gamers,Motion Team,Upper Semifinals,Main Event: LAS,https://www.vlr.gg/27680/kaos-latin-gamers-vs-motion-team-champions-tour-latam-stage-3-challengers-2-ubsf
-517,27681,Cruzados Esports,Optix,0,2,Optix,Cruzados Esports,Lower Round 2,Main Event: LAS,https://www.vlr.gg/27681/cruzados-esports-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-lr2
-517,27682,Motion Team,Velox,2,1,Motion Team,Velox,Lower Round 2,Main Event: LAS,https://www.vlr.gg/27682/motion-team-vs-velox-champions-tour-latam-stage-3-challengers-2-lr2
-517,27684,Optix,Motion Team,2,0,Optix,Motion Team,Lower Round 3,Main Event: LAS,https://www.vlr.gg/27684/movistar-optix-vs-motion-team-champions-tour-latam-stage-3-challengers-2-lr3
-517,27683,9z Team,Kaos Latin Gamers,0,2,Kaos Latin Gamers,9z Team,Upper Final,Main Event: LAS,https://www.vlr.gg/27683/9z-team-vs-kaos-latin-gamers-champions-tour-latam-stage-3-challengers-2-ubf
-517,27685,9z Team,Optix,2,0,9z Team,Optix,Lower Final,Main Event: LAS,https://www.vlr.gg/27685/9z-team-vs-movistar-optix-champions-tour-latam-stage-3-challengers-2-lbf
-517,27891,E-Xolos LAZER,En corto gamers,0,1,En corto gamers,E-Xolos LAZER,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27891/lazer-vs-en-corto-gamers-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27892,Akave Esports,Border Monsters,0,1,Border Monsters,Akave Esports,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27892/akave-esports-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27893,Ryze Gaming,Granjeros,0,1,Granjeros,Ryze Gaming,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27893/ryze-gaming-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27894,Pass Gaming,Funkboings,0,1,Funkboings,Pass Gaming,Upper Quarterfinals,Main Event: LAN,https://www.vlr.gg/27894/pass-gaming-latam-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ubqf
-517,27895,E-Xolos LAZER,Akave Esports,2,0,E-Xolos LAZER,Akave Esports,Lower Round 1,Main Event: LAN,https://www.vlr.gg/27895/lazer-vs-akave-esports-champions-tour-latam-stage-3-challengers-2-lr1
-517,27896,Ryze Gaming,Pass Gaming,2,1,Ryze Gaming,Pass Gaming,Lower Round 1,Main Event: LAN,https://www.vlr.gg/27896/ryze-gaming-vs-pass-gaming-latam-champions-tour-latam-stage-3-challengers-2-lr1
-517,27897,En corto gamers,Border Monsters,0,2,Border Monsters,En corto gamers,Upper Semifinals,Main Event: LAN,https://www.vlr.gg/27897/en-corto-gamers-vs-border-monsters-champions-tour-latam-stage-3-challengers-2-ubsf
-517,27898,Granjeros,Funkboings,2,1,Granjeros,Funkboings,Upper Semifinals,Main Event: LAN,https://www.vlr.gg/27898/granjeros-vs-funkboings-champions-tour-latam-stage-3-challengers-2-ubsf
-517,27899,En corto gamers,E-Xolos LAZER,0,2,E-Xolos LAZER,En corto gamers,Lower Round 2,Main Event: LAN,https://www.vlr.gg/27899/en-corto-gamers-vs-lazer-champions-tour-latam-stage-3-challengers-2-lr2
-517,27900,Funkboings,Ryze Gaming,1,2,Ryze Gaming,Funkboings,Lower Round 2,Main Event: LAN,https://www.vlr.gg/27900/funkboings-vs-ryze-gaming-champions-tour-latam-stage-3-challengers-2-lr2
-517,27902,E-Xolos LAZER,Ryze Gaming,2,1,E-Xolos LAZER,Ryze Gaming,Lower Round 3,Main Event: LAN,https://www.vlr.gg/27902/lazer-vs-ryze-gaming-champions-tour-latam-stage-3-challengers-2-lr3
-517,27901,Border Monsters,Granjeros,2,1,Border Monsters,Granjeros,Upper Final,Main Event: LAN,https://www.vlr.gg/27901/border-monsters-vs-granjeros-champions-tour-latam-stage-3-challengers-2-ubf
-517,27903,Granjeros,E-Xolos LAZER,1,2,E-Xolos LAZER,Granjeros,Lower Final,Main Event: LAN,https://www.vlr.gg/27903/granjeros-vs-lazer-champions-tour-latam-stage-3-challengers-2-lbf
-576,28227,FaZe Clan,pepecool,2,0,FaZe Clan,pepecool,Round of 128,Open Qualifier,https://www.vlr.gg/28227/faze-clan-vs-pepecool-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28268,East Hill,Depth Esports,2,1,East Hill,Depth Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28268/east-hill-vs-depth-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28270,Foxy,God Given,1,1,God Given,Foxy,Round of 128,Open Qualifier,https://www.vlr.gg/28270/foxy-vs-aim-stars-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28219,Soniqs,Method2Madness,2,0,Soniqs,Method2Madness,Round of 128,Open Qualifier,https://www.vlr.gg/28219/soniqs-vs-method2madness-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28220,Vial,Company 8,2,0,Vial,Company 8,Round of 128,Open Qualifier,https://www.vlr.gg/28220/vial-vs-company-8-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28221,Fortnite Fraggers,Stealth,2,0,Fortnite Fraggers,Stealth,Round of 128,Open Qualifier,https://www.vlr.gg/28221/fortnite-fraggers-vs-stealth-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28222,OOKERS,WeBareBears,2,0,OOKERS,WeBareBears,Round of 128,Open Qualifier,https://www.vlr.gg/28222/ookers-vs-webarebears-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28223,ez5,Last Resistance,2,0,ez5,Last Resistance,Round of 128,Open Qualifier,https://www.vlr.gg/28223/ez5-vs-last-resistance-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28224,What's going on,Damn I Love Fwogs,2,0,What's going on,Damn I Love Fwogs,Round of 128,Open Qualifier,https://www.vlr.gg/28224/whats-going-on-vs-damn-i-love-fwogs-champions-tour-north-america-stage-3-challengers-2-qualifie
-576,28225,Ghost Gaming,White Lotus,2,0,Ghost Gaming,White Lotus,Round of 128,Open Qualifier,https://www.vlr.gg/28225/ghost-gaming-vs-white-lotus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28226,ex-Recon 5,Frag Hunters,1,2,Frag Hunters,ex-Recon 5,Round of 128,Open Qualifier,https://www.vlr.gg/28226/recon-5-vs-frag-hunters-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28228,slime slats,Reborn,2,0,slime slats,Reborn,Round of 128,Open Qualifier,https://www.vlr.gg/28228/slime-slats-vs-reborn-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28229,Brimstone Gaming,Dank Daddies,0,0,Brimstone Gaming,Dank Daddies,Round of 128,Open Qualifier,https://www.vlr.gg/28229/brimstone-gaming-vs-dank-daddies-champions-tour-north-america-stage-3-challengers-2-qualifier-ro
-576,28230,Cloud9 White,Evolved Gamers,2,1,Cloud9 White,Evolved Gamers,Round of 128,Open Qualifier,https://www.vlr.gg/28230/cloud9-white-vs-evolved-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
-576,28231,Immortals,Lobster Car,2,0,Immortals,Lobster Car,Round of 128,Open Qualifier,https://www.vlr.gg/28231/immortals-vs-lobster-car-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28232,IlluZion,UGK Esports,2,0,IlluZion,UGK Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28232/illuzion-black-vs-ugk-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28233,1337,MoBuckets,2,0,1337,MoBuckets,Round of 128,Open Qualifier,https://www.vlr.gg/28233/1337-vs-mobuckets-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28234,All Around Savants,STREET SHARKS,2,0,All Around Savants,STREET SHARKS,Round of 128,Open Qualifier,https://www.vlr.gg/28234/all-around-savants-vs-street-sharks-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28235,DarkZero Esports,PSISTORM,2,0,DarkZero Esports,PSISTORM,Round of 128,Open Qualifier,https://www.vlr.gg/28235/darkzero-esports-vs-psistorm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28236,afterMath Esports,FIU,0,2,FIU,afterMath Esports,Round of 128,Open Qualifier,https://www.vlr.gg/28236/aftermath-esports-vs-fiu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28237,Big Frames,STORM,2,0,Big Frames,STORM,Round of 128,Open Qualifier,https://www.vlr.gg/28237/big-frames-vs-storm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28238,Last Round Save,Aggie Gaming at UC,2,0,Last Round Save,Aggie Gaming at UC,Round of 128,Open Qualifier,https://www.vlr.gg/28238/last-round-save-vs-aggie-gaming-at-uc-champions-tour-north-america-stage-3-challengers-2-qualifi
-576,28239,Knights,Anime Aimers,2,0,Knights,Anime Aimers,Round of 128,Open Qualifier,https://www.vlr.gg/28239/knights-vs-anime-aimers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28240,ECAP,Buffalo,2,1,ECAP,Buffalo,Round of 128,Open Qualifier,https://www.vlr.gg/28240/ecap-vs-university-at-buffalo-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28241,SoaR,Zoomers,2,0,SoaR,Zoomers,Round of 128,Open Qualifier,https://www.vlr.gg/28241/soar-vs-zoomers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28242,Valkyrie,Crowd Pleasers,2,1,Valkyrie,Crowd Pleasers,Round of 128,Open Qualifier,https://www.vlr.gg/28242/valkyrie-vs-crowd-pleasers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28243,Andbox,Sway eSports,2,0,Andbox,Sway eSports,Round of 128,Open Qualifier,https://www.vlr.gg/28243/andbox-vs-swaygg-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28244,Organic Gamers,freelo,1,0,Organic Gamers,freelo,Round of 128,Open Qualifier,https://www.vlr.gg/28244/organic-gamers-vs-freelo-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28245,Zero MarksMen,Bob's Girls,2,0,Zero MarksMen,Bob's Girls,Round of 128,Open Qualifier,https://www.vlr.gg/28245/zero-marksmen-vs-bobs-girls-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28246,CoT,99% Effort,2,0,CoT,99% Effort,Round of 128,Open Qualifier,https://www.vlr.gg/28246/cot-vs-99-effort-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28247,TSM,Team Mystic,2,0,TSM,Team Mystic,Round of 128,Open Qualifier,https://www.vlr.gg/28247/tsm-vs-team-mystic-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28248,303 Esports,4 Gorillas and A Monkey,2,0,303 Esports,4 Gorillas and A Monkey,Round of 128,Open Qualifier,https://www.vlr.gg/28248/303-esports-vs-4-gorillas-and-a-monkey-champions-tour-north-america-stage-3-challengers-2-qualif
-576,28249,Squirtle Squad,Apes Together Strong,2,0,Squirtle Squad,Apes Together Strong,Round of 128,Open Qualifier,https://www.vlr.gg/28249/squirtle-squad-vs-apes-together-strong-champions-tour-north-america-stage-3-challengers-2-qualif
-576,28250,Levitate,FLu Esports,1,2,FLu Esports,Levitate,Round of 128,Open Qualifier,https://www.vlr.gg/28250/levitate-vs-flu-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28251,T1,Spectral Esports Purple,2,0,T1,Spectral Esports Purple,Round of 128,Open Qualifier,https://www.vlr.gg/28251/t1-vs-spectral-esports-purple-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28252,Taipan Esports,o7,2,1,Taipan Esports,o7,Round of 128,Open Qualifier,https://www.vlr.gg/28252/taipan-esports-vs-o7-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28253,Bait Academy,Aspyre Entertainment,2,0,Bait Academy,Aspyre Entertainment,Round of 128,Open Qualifier,https://www.vlr.gg/28253/project-13-vs-aspyre-entertainment-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28254,Professional Malders,Synergy,2,0,Professional Malders,Synergy,Round of 128,Open Qualifier,https://www.vlr.gg/28254/professional-malders-vs-synergy-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
-576,28255,Renegades,Waifu Warriors,2,0,Renegades,Waifu Warriors,Round of 128,Open Qualifier,https://www.vlr.gg/28255/renegades-vs-waifu-warriors-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28256,Shopify Rebellion GC,Pog Champions,2,0,Shopify Rebellion GC,Pog Champions,Round of 128,Open Qualifier,https://www.vlr.gg/28256/shopify-rebellion-vs-pog-champions-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28257,YFP,mozzymembas,2,1,YFP,mozzymembas,Round of 128,Open Qualifier,https://www.vlr.gg/28257/yfp-gaming-vs-mozzymembas-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28258,FYB,Positive Mental Attitude,0,2,Positive Mental Attitude,FYB,Round of 128,Open Qualifier,https://www.vlr.gg/28258/fyb-vs-positive-mental-attitude-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
-576,28259,VIRTUOSO,Double Vision,2,0,VIRTUOSO,Double Vision,Round of 128,Open Qualifier,https://www.vlr.gg/28259/virtuoso-vs-double-vision-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28260,Sbread Gaming,Team Reckaroo,0,0,Team Reckaroo,Sbread Gaming,Round of 128,Open Qualifier,https://www.vlr.gg/28260/sbread-gaming-vs-norcal-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
-576,28261,DIVIZE,HalfBliss,2,0,DIVIZE,HalfBliss,Round of 128,Open Qualifier,https://www.vlr.gg/28261/divize-vs-eclectiq-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28262,Down Two Earth,Indiana Syndicate,2,1,Down Two Earth,Indiana Syndicate,Round of 128,Open Qualifier,https://www.vlr.gg/28262/down-two-earth-vs-indiana-syndicate-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28263,Built By Gamers,Hoax,2,0,Built By Gamers,Hoax,Round of 128,Open Qualifier,https://www.vlr.gg/28263/built-by-gamers-vs-hoax-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28264,Carpe Noctem,Amogus,2,0,Carpe Noctem,Amogus,Round of 128,Open Qualifier,https://www.vlr.gg/28264/carpe-noctem-vs-amogus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28265,BASILISK,MIRACLE,2,0,BASILISK,MIRACLE,Round of 128,Open Qualifier,https://www.vlr.gg/28265/team-basilisk-vs-miracle-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28266,HorizonGG,Zelos,2,0,HorizonGG,Zelos,Round of 128,Open Qualifier,https://www.vlr.gg/28266/horizongg-vs-zelos-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28267,Cloud9,Celestial Violet,2,0,Cloud9,Celestial Violet,Round of 128,Open Qualifier,https://www.vlr.gg/28267/cloud9-blue-vs-celestial-violet-champions-tour-north-america-stage-3-challengers-2-qualifier-ro1
-576,28269,Good Fellas,Sussy,2,0,Good Fellas,Sussy,Round of 128,Open Qualifier,https://www.vlr.gg/28269/good-fellas-vs-sussy-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28271,Complexity,Carnos Arks,2,0,Complexity,Carnos Arks,Round of 128,Open Qualifier,https://www.vlr.gg/28271/complexity-vs-carnos-arks-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28272,Karma,For Fun,2,0,Karma,For Fun,Round of 128,Open Qualifier,https://www.vlr.gg/28272/karma-vs-for-fun-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28273,Evil Geniuses,Team Volpid,2,0,Evil Geniuses,Team Volpid,Round of 128,Open Qualifier,https://www.vlr.gg/28273/evil-geniuses-vs-team-volpid-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28274,Lazarus,XTR,2,0,Lazarus,XTR,Round of 128,Open Qualifier,https://www.vlr.gg/28274/lazarus-vs-xtr-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28275,Luminosity,Spectrum Swing,2,0,Luminosity,Spectrum Swing,Round of 128,Open Qualifier,https://www.vlr.gg/28275/luminosity-vs-spectrum-swing-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28276,CLG Red,Hysteria,0,2,Hysteria,CLG Red,Round of 128,Open Qualifier,https://www.vlr.gg/28276/clg-red-vs-hysteria-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28277,Fenrir,UYU,2,1,Fenrir,UYU,Round of 128,Open Qualifier,https://www.vlr.gg/28277/fenrir-vs-uyu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28278,Time Out,Vale,2,0,Time Out,Vale,Round of 128,Open Qualifier,https://www.vlr.gg/28278/p11-vs-vale-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28279,NRG,Magma,2,0,NRG,Magma,Round of 128,Open Qualifier,https://www.vlr.gg/28279/nrg-esports-vs-magma-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28280,Rock Bottom,Xplicit,0,0,Rock Bottom,Xplicit,Round of 128,Open Qualifier,https://www.vlr.gg/28280/rock-bottom-vs-xplicit-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28281,Resonate,Fidelity,2,0,Resonate,Fidelity,Round of 128,Open Qualifier,https://www.vlr.gg/28281/resonate-vs-fidelity-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28282,Able Esports,Karasuno,2,0,Able Esports,Karasuno,Round of 128,Open Qualifier,https://www.vlr.gg/28282/able-esports-vs-karasuno-champions-tour-north-america-stage-3-challengers-2-qualifier-ro128
-576,28287,FaZe Clan,slime slats,2,0,FaZe Clan,slime slats,Round of 64,Open Qualifier,https://www.vlr.gg/28287/faze-clan-vs-slime-slats-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28297,TSM,303 Esports,2,0,TSM,303 Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28297/tsm-vs-303-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28289,Immortals,IlluZion,2,0,Immortals,IlluZion,Round of 64,Open Qualifier,https://www.vlr.gg/28289/immortals-vs-illuzion-black-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28284,Fortnite Fraggers,OOKERS,0,2,OOKERS,Fortnite Fraggers,Round of 64,Open Qualifier,https://www.vlr.gg/28284/fortnite-fraggers-vs-ookers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28285,ez5,What's going on,2,0,ez5,What's going on,Round of 64,Open Qualifier,https://www.vlr.gg/28285/ez5-vs-whats-going-on-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28301,Renegades,Shopify Rebellion GC,2,0,Renegades,Shopify Rebellion GC,Round of 64,Open Qualifier,https://www.vlr.gg/28301/renegades-vs-shopify-rebellion-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28298,Squirtle Squad,FLu Esports,2,0,Squirtle Squad,FLu Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28298/squirtle-squad-vs-flu-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28304,DIVIZE,Down Two Earth,2,1,DIVIZE,Down Two Earth,Round of 64,Open Qualifier,https://www.vlr.gg/28304/divize-vs-down-two-earth-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28308,Good Fellas,God Given,2,0,Good Fellas,God Given,Round of 64,Open Qualifier,https://www.vlr.gg/28308/good-fellas-vs-aim-stars-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28283,Soniqs,Vial,2,0,Soniqs,Vial,Round of 64,Open Qualifier,https://www.vlr.gg/28283/soniqs-vs-vial-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28286,Ghost Gaming,Frag Hunters,2,0,Ghost Gaming,Frag Hunters,Round of 64,Open Qualifier,https://www.vlr.gg/28286/ghost-gaming-vs-frag-hunters-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28288,Brimstone Gaming,Cloud9 White,2,1,Brimstone Gaming,Cloud9 White,Round of 64,Open Qualifier,https://www.vlr.gg/28288/brimstone-gaming-vs-cloud9-white-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28290,1337,All Around Savants,1,2,All Around Savants,1337,Round of 64,Open Qualifier,https://www.vlr.gg/28290/1337-vs-all-around-savants-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28291,DarkZero Esports,FIU,2,0,DarkZero Esports,FIU,Round of 64,Open Qualifier,https://www.vlr.gg/28291/darkzero-esports-vs-fiu-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28292,Big Frames,Last Round Save,0,2,Last Round Save,Big Frames,Round of 64,Open Qualifier,https://www.vlr.gg/28292/big-frames-vs-last-round-save-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28293,Knights,ECAP,2,0,Knights,ECAP,Round of 64,Open Qualifier,https://www.vlr.gg/28293/knights-vs-ecap-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28294,SoaR,Valkyrie,2,0,SoaR,Valkyrie,Round of 64,Open Qualifier,https://www.vlr.gg/28294/soar-vs-valkyrie-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28295,Andbox,Organic Gamers,2,0,Andbox,Organic Gamers,Round of 64,Open Qualifier,https://www.vlr.gg/28295/andbox-vs-organic-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28296,Zero MarksMen,CoT,2,1,Zero MarksMen,CoT,Round of 64,Open Qualifier,https://www.vlr.gg/28296/zero-marksmen-vs-cot-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28299,T1,Taipan Esports,2,0,T1,Taipan Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28299/t1-vs-taipan-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28300,Bait Academy,Professional Malders,2,0,Bait Academy,Professional Malders,Round of 64,Open Qualifier,https://www.vlr.gg/28300/project-13-vs-professional-malders-champions-tour-north-america-stage-3-challengers-2-qualifier
-576,28302,YFP,Positive Mental Attitude,2,0,YFP,Positive Mental Attitude,Round of 64,Open Qualifier,https://www.vlr.gg/28302/yfp-gaming-vs-positive-mental-attitude-champions-tour-north-america-stage-3-challengers-2-qualif
-576,28303,VIRTUOSO,Team Reckaroo,2,1,VIRTUOSO,Team Reckaroo,Round of 64,Open Qualifier,https://www.vlr.gg/28303/virtuoso-vs-norcal-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28305,Built By Gamers,Carpe Noctem,2,1,Built By Gamers,Carpe Noctem,Round of 64,Open Qualifier,https://www.vlr.gg/28305/built-by-gamers-vs-carpe-noctem-champions-tour-north-america-stage-3-challengers-2-qualifier-ro6
-576,28306,BASILISK,HorizonGG,2,1,BASILISK,HorizonGG,Round of 64,Open Qualifier,https://www.vlr.gg/28306/team-basilisk-vs-horizongg-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28307,Cloud9,East Hill,2,0,Cloud9,East Hill,Round of 64,Open Qualifier,https://www.vlr.gg/28307/cloud9-blue-vs-east-hill-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28309,Complexity,Karma,2,0,Complexity,Karma,Round of 64,Open Qualifier,https://www.vlr.gg/28309/complexity-vs-karma-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28310,Evil Geniuses,Lazarus,2,1,Evil Geniuses,Lazarus,Round of 64,Open Qualifier,https://www.vlr.gg/28310/evil-geniuses-vs-lazarus-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28311,Luminosity,Hysteria,2,0,Luminosity,Hysteria,Round of 64,Open Qualifier,https://www.vlr.gg/28311/luminosity-vs-hysteria-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28312,Fenrir,Time Out,1,2,Time Out,Fenrir,Round of 64,Open Qualifier,https://www.vlr.gg/28312/fenrir-vs-p11-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28313,NRG,Rock Bottom,2,0,NRG,Rock Bottom,Round of 64,Open Qualifier,https://www.vlr.gg/28313/nrg-esports-vs-rock-bottom-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28314,Resonate,Able Esports,2,1,Resonate,Able Esports,Round of 64,Open Qualifier,https://www.vlr.gg/28314/resonate-vs-able-esports-champions-tour-north-america-stage-3-challengers-2-qualifier-ro64
-576,28316,ez5,Ghost Gaming,0,2,Ghost Gaming,ez5,Round of 32,Open Qualifier,https://www.vlr.gg/28316/ez5-vs-ghost-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28320,Knights,SoaR,2,1,Knights,SoaR,Round of 32,Open Qualifier,https://www.vlr.gg/28320/knights-vs-soar-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28322,TSM,Squirtle Squad,2,0,TSM,Squirtle Squad,Round of 32,Open Qualifier,https://www.vlr.gg/28322/tsm-vs-squirtle-squad-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28323,T1,Bait Academy,2,0,T1,Bait Academy,Round of 32,Open Qualifier,https://www.vlr.gg/28323/t1-vs-project-13-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28325,VIRTUOSO,DIVIZE,0,2,DIVIZE,VIRTUOSO,Round of 32,Open Qualifier,https://www.vlr.gg/28325/virtuoso-vs-divize-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28327,Cloud9,Good Fellas,2,0,Cloud9,Good Fellas,Round of 32,Open Qualifier,https://www.vlr.gg/28327/cloud9-blue-vs-good-fellas-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28328,Complexity,Evil Geniuses,2,0,Complexity,Evil Geniuses,Round of 32,Open Qualifier,https://www.vlr.gg/28328/complexity-vs-evil-geniuses-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28329,Luminosity,Time Out,2,0,Luminosity,Time Out,Round of 32,Open Qualifier,https://www.vlr.gg/28329/luminosity-vs-p11-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28330,NRG,Resonate,1,2,Resonate,NRG,Round of 32,Open Qualifier,https://www.vlr.gg/28330/nrg-esports-vs-resonate-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28315,Soniqs,OOKERS,2,0,Soniqs,OOKERS,Round of 32,Open Qualifier,https://www.vlr.gg/28315/soniqs-vs-ookers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28317,FaZe Clan,Brimstone Gaming,2,0,FaZe Clan,Brimstone Gaming,Round of 32,Open Qualifier,https://www.vlr.gg/28317/faze-clan-vs-brimstone-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28318,Immortals,All Around Savants,2,0,Immortals,All Around Savants,Round of 32,Open Qualifier,https://www.vlr.gg/28318/immortals-vs-all-around-savants-champions-tour-north-america-stage-3-challengers-2-qualifier-ro3
-576,28319,DarkZero Esports,Last Round Save,2,1,DarkZero Esports,Last Round Save,Round of 32,Open Qualifier,https://www.vlr.gg/28319/darkzero-esports-vs-last-round-save-champions-tour-north-america-stage-3-challengers-2-qualifie
-576,28321,Andbox,Zero MarksMen,2,0,Andbox,Zero MarksMen,Round of 32,Open Qualifier,https://www.vlr.gg/28321/andbox-vs-zero-marksmen-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28324,Renegades,YFP,2,0,Renegades,YFP,Round of 32,Open Qualifier,https://www.vlr.gg/28324/renegades-vs-yfp-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro32
-576,28326,Built By Gamers,BASILISK,2,0,Built By Gamers,BASILISK,Round of 32,Open Qualifier,https://www.vlr.gg/28326/built-by-gamers-vs-team-basilisk-champions-tour-north-america-stage-3-challengers-2-qualifier-ro
-576,28335,T1,Renegades,2,0,T1,Renegades,Round of 16,Open Qualifier,https://www.vlr.gg/28335/t1-vs-renegades-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28337,Cloud9,Complexity,2,0,Cloud9,Complexity,Round of 16,Open Qualifier,https://www.vlr.gg/28337/cloud9-blue-vs-complexity-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28332,FaZe Clan,Immortals,2,0,FaZe Clan,Immortals,Round of 16,Open Qualifier,https://www.vlr.gg/28332/faze-clan-vs-immortals-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28331,Soniqs,Ghost Gaming,0,2,Ghost Gaming,Soniqs,Round of 16,Open Qualifier,https://www.vlr.gg/28331/soniqs-vs-ghost-gaming-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28334,Andbox,TSM,1,2,TSM,Andbox,Round of 16,Open Qualifier,https://www.vlr.gg/28334/andbox-vs-tsm-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28336,DIVIZE,Built By Gamers,0,2,Built By Gamers,DIVIZE,Round of 16,Open Qualifier,https://www.vlr.gg/28336/divize-vs-built-by-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28338,Luminosity,Resonate,2,0,Luminosity,Resonate,Round of 16,Open Qualifier,https://www.vlr.gg/28338/luminosity-vs-resonate-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28333,DarkZero Esports,Knights,2,1,DarkZero Esports,Knights,Round of 16,Open Qualifier,https://www.vlr.gg/28333/darkzero-esports-vs-knights-champions-tour-north-america-stage-3-challengers-2-qualifier-ro16
-576,28339,Ghost Gaming,FaZe Clan,0,2,FaZe Clan,Ghost Gaming,Quarterfinals,Open Qualifier,https://www.vlr.gg/28339/ghost-gaming-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
-576,28340,DarkZero Esports,TSM,1,2,TSM,DarkZero Esports,Quarterfinals,Open Qualifier,https://www.vlr.gg/28340/darkzero-esports-vs-tsm-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
-576,28341,T1,Built By Gamers,2,0,T1,Built By Gamers,Quarterfinals,Open Qualifier,https://www.vlr.gg/28341/t1-vs-built-by-gamers-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
-576,28342,Cloud9,Luminosity,0,2,Luminosity,Cloud9,Quarterfinals,Open Qualifier,https://www.vlr.gg/28342/cloud9-blue-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-qualifier-qf
-576,29251,Gen.G,TSM,1,2,TSM,Gen.G,Upper Quarterfinals,Main Event,https://www.vlr.gg/29251/gen-g-vs-tsm-champions-tour-north-america-stage-3-challengers-2-ubqf
-576,29252,Version1,T1,1,2,T1,Version1,Upper Quarterfinals,Main Event,https://www.vlr.gg/29252/version1-vs-t1-champions-tour-north-america-stage-3-challengers-2-ubqf
-576,29254,Rise,FaZe Clan,2,0,Rise,FaZe Clan,Upper Quarterfinals,Main Event,https://www.vlr.gg/29254/rise-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-ubqf
-576,29253,Pioneers,Luminosity,1,2,Luminosity,Pioneers,Upper Quarterfinals,Main Event,https://www.vlr.gg/29253/pioneers-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-ubqf
-576,29259,Gen.G,Version1,2,1,Gen.G,Version1,Lower Round 1,Main Event,https://www.vlr.gg/29259/gen-g-vs-version1-champions-tour-north-america-stage-3-challengers-2-lr1
-576,29260,Pioneers,FaZe Clan,0,2,FaZe Clan,Pioneers,Lower Round 1,Main Event,https://www.vlr.gg/29260/pioneers-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr1
-576,29255,TSM,T1,2,1,TSM,T1,Upper Semifinals,Main Event,https://www.vlr.gg/29255/tsm-vs-t1-champions-tour-north-america-stage-3-challengers-2-ubsf
-576,29256,Luminosity,Rise,2,0,Luminosity,Rise,Upper Semifinals,Main Event,https://www.vlr.gg/29256/luminosity-vs-rise-champions-tour-north-america-stage-3-challengers-2-ubsf
-576,29261,Rise,Gen.G,2,0,Rise,Gen.G,Lower Round 2,Main Event,https://www.vlr.gg/29261/rise-vs-gen-g-champions-tour-north-america-stage-3-challengers-2-lr2
-576,29262,T1,FaZe Clan,0,2,FaZe Clan,T1,Lower Round 2,Main Event,https://www.vlr.gg/29262/t1-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr2
-576,29257,TSM,Luminosity,2,0,TSM,Luminosity,Upper Final,Main Event,https://www.vlr.gg/29257/tsm-vs-luminosity-champions-tour-north-america-stage-3-challengers-2-ubf
-576,29263,Rise,FaZe Clan,1,2,FaZe Clan,Rise,Lower Round 3,Main Event,https://www.vlr.gg/29263/rise-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lr3
-576,29264,Luminosity,FaZe Clan,0,2,FaZe Clan,Luminosity,Lower Final,Main Event,https://www.vlr.gg/29264/luminosity-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-lbf
-576,29258,TSM,FaZe Clan,3,1,TSM,FaZe Clan,Grand Final,Main Event,https://www.vlr.gg/29258/tsm-vs-faze-clan-champions-tour-north-america-stage-3-challengers-2-gf
