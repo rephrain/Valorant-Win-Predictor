@@ -1,0 +1,66 @@
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 5s
+      retries: 5
+    restart: always
+
+  airflow-webserver:
+    build: .
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__FERNET_KEY: "fernet_key_here"
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/valorant_scraper/dags
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "True"
+      PYTHONWARNINGS: ignore::SyntaxWarning
+    volumes:
+      - ./valorant_scraper:/opt/airflow/valorant_scraper
+      - airflow_logs:/opt/airflow/logs
+      - ./valorant_scraper/data:/opt/airflow/valorant_scraper/data
+    ports:
+      - "8080:8080"
+    command: >
+      bash -c "
+        airflow db upgrade &&
+        airflow users create --username admin --password admin --firstname Airflow --lastname Admin --role Admin --email admin@example.com &&
+        airflow webserver
+      "
+
+  airflow-scheduler:
+    build: .
+    restart: always
+    depends_on:
+      - postgres
+      - airflow-webserver
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/valorant_scraper/dags
+      PYTHONWARNINGS: ignore::SyntaxWarning
+    volumes:
+      - ./valorant_scraper:/opt/airflow/valorant_scraper
+      - airflow_logs:/opt/airflow/logs
+      - ./valorant_scraper/data:/opt/airflow/valorant_scraper/data
+      - ./data:/opt/airflow/data
+    command: >
+      bash -c "
+        airflow db upgrade &&
+        airflow scheduler
+      "
+
+volumes:
+  postgres_data:
+  airflow_logs:

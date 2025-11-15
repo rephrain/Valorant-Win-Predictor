@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+valorant_env/
+.env/
+
+# Exclude scraped data
+valorant_scraper/data/
