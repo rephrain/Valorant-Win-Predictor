@@ -362,7 +362,7 @@ def process_batch(games_batch, scrape_func, output_path, temp_path, max_workers,
             
             del new_temp_df
             
-            logger.info(f"✓ Processed {len(batch_game_ids)} games with {len(batch_stats)} H2H matchups")
+            logger.info(f"✓ Processed {len(batch_game_ids)} games with {len(batch_stats)} economy team matchups")
             logger.info(f"Time: {elapsed:.1f}s | Total progress: {total_so_far + len(batch_game_ids)}")
             
             gc.collect()
