@@ -13,6 +13,8 @@ from scrapers.tournaments_game_overview_scraper import scrape_tournaments_game_o
 from scrapers.tournaments_game_round_scraper import scrape_tournaments_game_round_data
 from scrapers.tournaments_game_head2head_scraper import scrape_tournaments_game_head2head_data
 from scrapers.tournaments_game_performance_scraper import scrape_tournaments_game_performance_data
+from scrapers.tournaments_game_economy_team_scraper import scrape_tournaments_game_economy_team_data
+from scrapers.tournaments_game_economy_round_scraper import scrape_tournaments_game_economy_round_data
 from processors.aggregator import aggregate_all_data
 from processors.feature_engineering import engineer_features
 
@@ -92,6 +94,20 @@ scrape_tournaments_game_performance_task = PythonOperator(
     dag=dag,
 )
 
+# Task 9: Scrape tournaments team economy data
+scrape_tournaments_game_economy_team_task = PythonOperator(
+    task_id='scrape_tournaments_game_economy_team_data',
+    python_callable=scrape_tournaments_game_economy_team_data,
+    dag=dag,
+)
+
+# Task 10: Scrape tournaments round economy data
+scrape_tournaments_game_economy_round_task = PythonOperator(
+    task_id='scrape_tournaments_game_economy_round_data',
+    python_callable=scrape_tournaments_game_economy_round_data,
+    dag=dag,
+)
+
 # Task 4: Aggregate all raw data
 aggregate_data = PythonOperator(
     task_id='aggregate_raw_data',
@@ -107,4 +123,4 @@ engineer_feat = PythonOperator(
 )
 
 # Define dependencies
-scrape_tournaments_task >> [scrape_tournaments_detail_task, scrape_tournaments_match_task] >> scrape_tournaments_game_task >> [scrape_tournaments_game_overview_task, scrape_tournaments_game_round_task, scrape_tournaments_game_head2head_task, scrape_tournaments_game_performance_task] >> aggregate_data >> engineer_feat
+scrape_tournaments_task >> [scrape_tournaments_detail_task, scrape_tournaments_match_task] >> scrape_tournaments_game_task >> [scrape_tournaments_game_overview_task, scrape_tournaments_game_round_task, scrape_tournaments_game_head2head_task, scrape_tournaments_game_performance_task, scrape_tournaments_game_economy_team_task, scrape_tournaments_game_economy_round_task] >> aggregate_data >> engineer_feat
